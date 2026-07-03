@@ -1,0 +1,401 @@
+lead_id,lead_name,company,lead_source,created_date,status,converted
+L-1000,Allison Hill,Taylor Inc,Website Demo Signup,2025-08-10,Contacted,False
+L-1001,Stephanie Miller,Johnson-Davis,Website Demo Signup,2026-03-11,Converted,True
+L-1002,Lance Hoffman,"Santos, Gardner and Robinson",Website Demo Signup,2025-09-27,New,False
+L-1003,Rhonda Smith,Wolfe LLC,Website Demo Signup,2026-05-17,New,False
+L-1004,Daniel Gallagher,Davis Inc,Website Demo Signup,2025-09-19,Disqualified,False
+L-1005,Gregory Baker,Blair PLC,Conference,2026-03-13,Converted,True
+L-1006,Thomas Miller,Calderon-Montgomery,Webinar,2026-06-30,Converted,True
+L-1007,Laura Bush,Stanley LLC,Referral,2025-11-29,Converted,True
+L-1008,Dr. Sharon James,Reid-Diaz,Website Demo Signup,2026-01-12,Nurturing,False
+L-1009,Daniel Adams,"Wong, Lynch and Jackson",LinkedIn Ads,2026-01-08,Disqualified,False
+L-1010,Carla Gray,"Watts, Robinson and Nguyen",Website Demo Signup,2025-10-02,New,False
+L-1011,Amy Underwood,Morales-Jones,Referral,2025-09-24,Nurturing,False
+L-1012,Latoya Robbins,Rios Group,Website Demo Signup,2025-09-11,Converted,True
+L-1013,Maria Thomas,Wright PLC,Referral,2025-07-30,Converted,True
+L-1014,Nicole Patterson,"Ross, Robinson and Bright",Partner,2026-05-24,Disqualified,False
+L-1015,Ann Williams,Hernandez and Sons,Conference,2026-02-11,Contacted,False
+L-1016,Jennifer Brown,Carlson-Mcdonald,Referral,2025-12-26,New,False
+L-1017,Juan Dunlap,"Le, Maldonado and Herrera",LinkedIn Ads,2025-08-26,Contacted,False
+L-1018,Martin Rodriguez,Moore-Smith,Conference,2026-04-11,Converted,True
+L-1019,Michelle Stanton,Romero Inc,LinkedIn Ads,2025-08-10,Converted,True
+L-1020,Elizabeth Fowler,"Gonzalez, Brooks and Martin",Partner,2026-01-18,Contacted,False
+L-1021,Tammy Sellers,"Nguyen, Smith and Hickman",Webinar,2026-06-17,New,False
+L-1022,Sandra Parker,Allen PLC,Partner,2026-03-17,Nurturing,False
+L-1023,Angelica Tucker,Spence PLC,LinkedIn Ads,2026-03-17,Disqualified,False
+L-1024,Betty Alvarez,"Martin, Rose and Obrien",Referral,2026-04-21,Converted,True
+L-1025,Tanya Campos,"Harris, Collins and Carney",Cold Call,2025-09-19,Disqualified,False
+L-1026,Jessica Holmes,Wright Inc,Referral,2025-09-08,Converted,True
+L-1027,Kevin Hall,Smith Ltd,Conference,2026-04-24,Converted,True
+L-1028,Crystal Whitehead,Jones-Young,Partner,2026-06-09,Converted,True
+L-1029,Cindy Anderson,"Johnston, Sanchez and Kennedy",Webinar,2026-04-13,New,False
+L-1030,Brandon Hopkins,Henderson-Owens,Referral,2025-12-18,Nurturing,False
+L-1031,Megan Joyce,Brown Ltd,Partner,2025-09-23,Converted,True
+L-1032,Scott Wright,Herrera and Sons,LinkedIn Ads,2026-05-06,Nurturing,False
+L-1033,Donald Wright,Ramos PLC,Referral,2025-08-09,Converted,True
+L-1034,Matthew Fernandez,Novak and Sons,Conference,2026-04-14,Nurturing,False
+L-1035,John Lewis,Barrera-Martin,Webinar,2025-10-20,New,False
+L-1036,James House,Mitchell-Horton,Referral,2025-08-17,Contacted,False
+L-1037,Rachel Stanley,Moore-Phillips,Referral,2026-04-16,Converted,True
+L-1038,Lauren Daniels,"Edwards, Williams and Woods",Partner,2025-10-05,Disqualified,False
+L-1039,Kim Brown,"Miller, Lopez and Larson",Website Demo Signup,2026-06-24,Nurturing,False
+L-1040,Cynthia Wilson,"Sanchez, Wheeler and Harvey",Website Demo Signup,2026-03-03,New,False
+L-1041,Kevin Mills,Harris-Moran,LinkedIn Ads,2026-05-21,Contacted,False
+L-1042,James Powers,Bryant-Hickman,LinkedIn Ads,2026-04-29,Contacted,False
+L-1043,Alexandra Howell,"Ferrell, Jones and Lewis",Cold Call,2026-02-18,Contacted,False
+L-1044,Timothy Ibarra,Wood and Sons,Webinar,2025-09-30,Nurturing,False
+L-1045,Joshua Turner,"Rice, Contreras and Spencer",Organic Search,2025-12-11,Disqualified,False
+L-1046,Ashley Humphrey,Wilson-Rodriguez,Conference,2025-10-12,Converted,True
+L-1047,Denise Jacobs,"Cooper, Watts and Farrell",Referral,2026-06-01,Contacted,False
+L-1048,Danielle Odonnell,Davis Group,Referral,2025-09-05,Converted,True
+L-1049,Amanda Cook,Walsh LLC,Website Demo Signup,2025-08-14,Converted,True
+L-1050,Jeremy Thornton,"Smith, Jones and Ware",Partner,2026-06-17,Converted,True
+L-1051,Kimberly Davenport,"Tran, Jordan and Williams",Referral,2026-03-04,Contacted,False
+L-1052,Timothy Stanton,Nolan and Sons,Cold Call,2025-09-14,Converted,True
+L-1053,Mary Gomez,"Henson, Russell and Oliver",Webinar,2025-11-03,Converted,True
+L-1054,Timothy Hancock,Keith Inc,LinkedIn Ads,2026-05-15,Disqualified,False
+L-1055,Tim Patton,Pham-Shields,Partner,2025-11-06,Converted,True
+L-1056,Debra Cobb,Reyes Inc,Organic Search,2025-08-03,Converted,True
+L-1057,Courtney Velasquez,Bailey-Hoover,LinkedIn Ads,2025-12-09,New,False
+L-1058,Courtney Keller,Murphy-Lin,Website Demo Signup,2026-02-26,Contacted,False
+L-1059,Diana May,Frazier-Anthony,Website Demo Signup,2025-11-29,New,False
+L-1060,Alexander Wiley,White-Estes,Webinar,2025-11-19,New,False
+L-1061,Brian Hamilton,"Hartman, Graham and Joyce",LinkedIn Ads,2026-06-08,New,False
+L-1062,Steven Lee,Fletcher Inc,Partner,2026-05-17,Contacted,False
+L-1063,Renee Mcdaniel,"Mclaughlin, Gonzalez and Reynolds",Conference,2025-12-07,Converted,True
+L-1064,Tammie Hanson,"Charles, Cortez and Evans",Partner,2025-12-10,Converted,True
+L-1065,Jason Powell,Spencer-Lee,Organic Search,2026-07-02,Converted,True
+L-1066,Jamie Adkins,Gilbert LLC,Referral,2025-11-13,Disqualified,False
+L-1067,Roy Torres,Jordan PLC,Website Demo Signup,2026-04-15,Converted,True
+L-1068,Erica Ramos,"Lewis, Kennedy and Santana",Cold Call,2026-06-04,Nurturing,False
+L-1069,Carolyn Miller,"Beck, Harvey and Davis",Website Demo Signup,2026-06-04,Contacted,False
+L-1070,Cynthia Collins,Hernandez Inc,Organic Search,2026-06-04,Converted,True
+L-1071,John Atkinson,Gibson Ltd,Website Demo Signup,2026-03-30,Converted,True
+L-1072,Michelle Cruz,Sanchez-Douglas,Conference,2026-03-05,Contacted,False
+L-1073,Paul Carrillo,Osborne and Sons,Cold Call,2025-09-10,Disqualified,False
+L-1074,Tyler Holmes,Grant Inc,Cold Call,2025-08-01,Nurturing,False
+L-1075,Robert Contreras,"Larson, Dodson and Vance",LinkedIn Ads,2026-03-21,Converted,True
+L-1076,Michelle Wagner,"Griffin, Moore and Hensley",Referral,2026-02-18,Nurturing,False
+L-1077,Paul Larsen,Cannon-Boyd,Referral,2025-11-11,New,False
+L-1078,Denise Jones,Young-Rogers,Conference,2026-06-29,New,False
+L-1079,Angela Hernandez,Benson-Mccarthy,Cold Call,2026-05-27,Contacted,False
+L-1080,Jason Daniels,Brown-Wall,Partner,2026-01-06,Nurturing,False
+L-1081,Randy Shah,Gates PLC,Website Demo Signup,2026-02-08,Nurturing,False
+L-1082,Aaron Bell,Castaneda-Ashley,Organic Search,2025-08-24,New,False
+L-1083,Paul Payne,"Hurst, Freeman and Nelson",Webinar,2025-07-27,Converted,True
+L-1084,Mr. Michael Yates,"Martin, Mcdonald and Anderson",Website Demo Signup,2025-07-29,Nurturing,False
+L-1085,Alyssa Long,"Alvarado, Miller and Patterson",Partner,2026-05-05,Contacted,False
+L-1086,Catherine Green,Lewis-Murphy,Referral,2026-02-14,Converted,True
+L-1087,Jamie Walton,King-Miller,Website Demo Signup,2026-01-09,Nurturing,False
+L-1088,Joshua Cooke,Walker-Jones,Conference,2025-10-18,New,False
+L-1089,Amanda Johnson,Gonzalez Inc,LinkedIn Ads,2026-05-17,New,False
+L-1090,Cynthia Wells,Elliott and Sons,Referral,2026-07-02,Converted,True
+L-1091,David Wood,"Lawson, Adkins and Wilson",Website Demo Signup,2026-02-19,Disqualified,False
+L-1092,Traci Rodriguez,Hickman PLC,Website Demo Signup,2025-09-19,Converted,True
+L-1093,Tina Sanders,"Gonzalez, Vargas and Rivas",Partner,2025-07-15,Nurturing,False
+L-1094,Michael Turner,"Burke, Martinez and Riggs",Cold Call,2025-09-08,New,False
+L-1095,Hannah Patterson,Jones-Holland,Referral,2026-01-27,New,False
+L-1096,Jason Henry,Yu-Reid,Website Demo Signup,2026-01-01,Converted,True
+L-1097,Michelle Graham,"Boyd, Santos and Gilbert",Referral,2026-05-12,Disqualified,False
+L-1098,Patricia Marshall,"Vargas, Morris and Sanchez",Webinar,2025-08-20,Contacted,False
+L-1099,Diana Hayes,Hudson-Barnett,Organic Search,2026-04-11,Disqualified,False
+L-1100,Johnny Nguyen,Lewis-Salinas,Website Demo Signup,2026-06-21,Disqualified,False
+L-1101,Spencer Haynes,Peters-Black,Partner,2025-07-26,Nurturing,False
+L-1102,David Russell,"Chang, Vaughn and Brewer",Webinar,2026-04-13,Converted,True
+L-1103,Ricky Davis II,"Sanchez, Beck and Wood",Partner,2026-06-14,Converted,True
+L-1104,Hailey Barajas,"Rivera, Warner and Nelson",Referral,2025-11-10,Contacted,False
+L-1105,Bryan Lee,Newton Ltd,Website Demo Signup,2026-03-11,Converted,True
+L-1106,Daniel Washington,"Lawrence, Wolf and Carlson",Referral,2026-01-16,Converted,True
+L-1107,Dr. Elizabeth Ward,Smith-Ferguson,Referral,2026-02-11,Nurturing,False
+L-1108,William Tran,"Raymond, Little and Mullins",Website Demo Signup,2026-06-19,Contacted,False
+L-1109,Adam Mitchell,Alexander-Lopez,Organic Search,2025-09-09,Converted,True
+L-1110,Todd Woods,Morales Inc,Cold Call,2026-05-09,Converted,True
+L-1111,Melissa Hernandez,"Avery, Miller and Wright",Conference,2026-01-24,New,False
+L-1112,Jennifer Carlson,"Perez, Mills and Hayes",Partner,2025-12-18,Converted,True
+L-1113,Scott Branch,Carroll-Brown,LinkedIn Ads,2026-06-11,Converted,True
+L-1114,Annette Farmer,"Clark, Guerrero and Moore",LinkedIn Ads,2025-10-01,Contacted,False
+L-1115,Benjamin Smith,Norris-Harrison,Conference,2025-12-29,Nurturing,False
+L-1116,Dwayne Campbell,Jones-Hall,Referral,2025-08-18,Nurturing,False
+L-1117,Rick Lawrence,Coleman PLC,Referral,2025-10-17,Disqualified,False
+L-1118,Chase Baker,Jones and Sons,Referral,2025-07-12,Converted,True
+L-1119,Linda Holloway,Gonzales-Harrison,LinkedIn Ads,2025-11-30,Contacted,False
+L-1120,James Nelson,"Snyder, Miller and Williams",Cold Call,2025-08-22,New,False
+L-1121,Frank Wright,Perez Ltd,Referral,2026-01-29,Nurturing,False
+L-1122,Laura Sampson,"Underwood, Johnston and Hines",Conference,2025-11-07,Disqualified,False
+L-1123,Joseph Ramos,White-Richards,LinkedIn Ads,2026-04-08,Converted,True
+L-1124,Katherine Davis,Ortiz-Morris,LinkedIn Ads,2025-07-29,Converted,True
+L-1125,Christopher Jenkins,Roberts-Landry,LinkedIn Ads,2026-03-05,Converted,True
+L-1126,Krista Gibson,King-Wilson,Website Demo Signup,2026-03-24,Converted,True
+L-1127,Sharon Bryan,Sandoval PLC,LinkedIn Ads,2025-11-02,Disqualified,False
+L-1128,Anthony Stone,"Avila, Garrett and Wolf",Partner,2025-12-03,Disqualified,False
+L-1129,Joshua Pennington,Gilmore-Washington,Referral,2025-10-23,Converted,True
+L-1130,Mark Lloyd,"Moore, Pierce and Tran",Website Demo Signup,2025-07-16,New,False
+L-1131,Willie Durham,Valentine-Holland,Website Demo Signup,2025-11-28,Disqualified,False
+L-1132,Timothy Carter,"Hill, Davenport and Baird",Cold Call,2026-06-08,New,False
+L-1133,Juan Reyes,"Romero, Suarez and Shields",Website Demo Signup,2025-11-12,Nurturing,False
+L-1134,Richard Perry,"Adams, Smith and Barber",LinkedIn Ads,2025-11-19,Disqualified,False
+L-1135,Lauren Keller,Griffin Group,Conference,2025-09-26,Converted,True
+L-1136,Juan Daniels,Cantu-Kane,Conference,2025-11-02,Nurturing,False
+L-1137,Mrs. Janet Chase,Williams-Garner,Conference,2025-10-10,Converted,True
+L-1138,Roberta Hughes,"Sparks, Pearson and Hernandez",Website Demo Signup,2025-11-20,Converted,True
+L-1139,Beth Sanford,Kane-Sawyer,Referral,2026-02-14,New,False
+L-1140,Joseph Bryant,"Thomas, Pitts and Booker",Website Demo Signup,2026-04-24,Contacted,False
+L-1141,Richard Baker,"Schwartz, Santos and Christian",Website Demo Signup,2025-07-07,Nurturing,False
+L-1142,Shannon James,Sims-Clay,Conference,2025-09-29,Converted,True
+L-1143,Joshua Williamson II,"Mccall, Bright and Francis",Referral,2025-11-30,New,False
+L-1144,Brett Schultz,Wallace Ltd,Referral,2025-09-12,Converted,True
+L-1145,Allen Nguyen,Carter LLC,Referral,2026-01-04,Disqualified,False
+L-1146,David Jenkins,"Sparks, Jackson and Miller",Webinar,2025-10-01,Contacted,False
+L-1147,Lisa Allen,"Thomas, Murray and King",Website Demo Signup,2025-10-27,New,False
+L-1148,Adam Ballard,Byrd-Moore,Referral,2025-12-16,Disqualified,False
+L-1149,Gregory Matthews,"Hayden, Vaughn and Bryant",Partner,2026-04-10,New,False
+L-1150,Zachary Castaneda,Young PLC,Cold Call,2025-12-14,New,False
+L-1151,Edward Lyons,Spence Ltd,Conference,2025-08-08,Contacted,False
+L-1152,Adam Grimes,"Beltran, Lozano and Mcgee",Referral,2026-06-08,Converted,True
+L-1153,Stephanie Parsons,Lawson LLC,Referral,2025-11-13,Disqualified,False
+L-1154,Connor King,"Saunders, Becker and Taylor",Webinar,2026-02-11,Nurturing,False
+L-1155,Mark Williams,Johnson-Diaz,Conference,2026-05-23,New,False
+L-1156,Theodore Murphy,Thompson-Anderson,Referral,2026-01-05,Converted,True
+L-1157,Valerie Schmidt,Rivas-Scott,Website Demo Signup,2025-08-04,Converted,True
+L-1158,Karen Drake,"Harrell, Brock and Mcdonald",Website Demo Signup,2026-02-27,Converted,True
+L-1159,Paul Perez,"Ramsey, Whitney and Coffey",Referral,2026-04-16,New,False
+L-1160,Holly Gibbs,Baker Inc,Organic Search,2025-09-18,Nurturing,False
+L-1161,Michael Chambers,"James, Little and Watson",Website Demo Signup,2025-12-27,New,False
+L-1162,Kaitlyn Harvey,"Murphy, Bishop and Holland",Organic Search,2026-04-11,Converted,True
+L-1163,Julie Haynes,"Ortiz, Taylor and Shah",Partner,2026-06-20,Disqualified,False
+L-1164,Johnathan Davis,"Taylor, Chavez and Santiago",Organic Search,2025-12-12,Converted,True
+L-1165,Theresa Barnes,"Barber, Mcclure and Pena",LinkedIn Ads,2025-09-03,New,False
+L-1166,Lisa Crosby,Johnson-Wood,Webinar,2025-07-12,New,False
+L-1167,Trevor Foley,Pollard LLC,Webinar,2025-09-17,Converted,True
+L-1168,Vanessa Howard,Hill-Donaldson,LinkedIn Ads,2025-11-26,Converted,True
+L-1169,Samantha Davis,May PLC,Referral,2025-08-06,Disqualified,False
+L-1170,Amber Cook,Buchanan and Sons,Conference,2026-05-10,Disqualified,False
+L-1171,Phillip Clark,Li and Sons,Website Demo Signup,2025-07-06,Converted,True
+L-1172,Charles Lester,Ramirez and Sons,Organic Search,2025-10-09,Converted,True
+L-1173,Ms. Rebecca Rodriguez,Anderson LLC,Webinar,2025-10-01,Nurturing,False
+L-1174,Cynthia Morris,Baker and Sons,Partner,2026-01-19,New,False
+L-1175,Kelly Reese,West-Cox,Partner,2026-02-11,Converted,True
+L-1176,Jodi Walker,"Williams, Logan and Camacho",Cold Call,2025-11-08,Nurturing,False
+L-1177,Judith Maynard,Lutz Group,Conference,2026-06-19,Converted,True
+L-1178,Brian Joseph,Jones-Miller,Website Demo Signup,2025-10-27,Nurturing,False
+L-1179,Ana Hill,"Richards, Joseph and James",Partner,2026-02-10,Nurturing,False
+L-1180,Elizabeth Wagner,Garcia-Miles,Website Demo Signup,2025-09-22,New,False
+L-1181,Marilyn Mack,"Glenn, Jordan and Beasley",LinkedIn Ads,2026-03-02,Contacted,False
+L-1182,Ronald Ross,"Davis, Simmons and Ortega",Conference,2025-07-15,Disqualified,False
+L-1183,Christian Leblanc,Davis Inc,Website Demo Signup,2026-06-25,Converted,True
+L-1184,Brent Rodgers,Hawkins PLC,Referral,2025-07-14,Nurturing,False
+L-1185,Kristina Santiago,Gomez-Ortega,Cold Call,2025-11-03,Converted,True
+L-1186,Shawna Griffith,Burke-Bell,Referral,2025-09-25,Nurturing,False
+L-1187,Christy Douglas,Boone LLC,Referral,2026-01-28,Converted,True
+L-1188,Holly Farmer,"Perez, Patterson and Hoffman",Referral,2026-03-27,Contacted,False
+L-1189,Lisa Leonard,"Johnson, Hickman and Gallegos",Website Demo Signup,2026-03-27,Nurturing,False
+L-1190,Christopher Park,Dorsey-Bell,Webinar,2026-05-13,Converted,True
+L-1191,Charles Sandoval,Thomas Ltd,Website Demo Signup,2025-12-31,Converted,True
+L-1192,Anna Moreno,Barnes-Peterson,Website Demo Signup,2025-10-03,Converted,True
+L-1193,Nathan Frank,"Carlson, Ware and Moore",Cold Call,2026-06-06,Contacted,False
+L-1194,Amber Miller,Stanley-Tucker,Partner,2025-08-11,New,False
+L-1195,Donald Fischer,Reed Inc,Referral,2025-09-13,Nurturing,False
+L-1196,Michael Tucker,"Parker, Walker and Joyce",Organic Search,2026-03-31,Converted,True
+L-1197,Dan Dougherty,Duran LLC,Website Demo Signup,2025-11-01,Converted,True
+L-1198,Adam Burgess,Anderson PLC,Website Demo Signup,2025-10-25,New,False
+L-1199,Kathryn Whitaker,Jones-Hensley,Website Demo Signup,2026-04-17,Nurturing,False
+L-1200,Albert Morse,Johnston-Berry,Organic Search,2026-05-21,Converted,True
+L-1201,Jennifer Wilson,Burch and Sons,LinkedIn Ads,2025-12-02,Contacted,False
+L-1202,Lisa Collier,Davis-Richard,Referral,2025-10-09,Nurturing,False
+L-1203,Kevin Warren,Harrell-Reese,Organic Search,2025-09-05,Converted,True
+L-1204,Richard Jones,"Wilson, Hicks and Bullock",Website Demo Signup,2025-08-20,New,False
+L-1205,Nicholas Fuentes,Young and Sons,LinkedIn Ads,2026-03-19,Converted,True
+L-1206,Christopher Hernandez,"Jones, Bean and Burton",Website Demo Signup,2026-05-23,Converted,True
+L-1207,Justin Riley,"Glass, Cunningham and Reid",Website Demo Signup,2026-05-26,Disqualified,False
+L-1208,Sharon Burton,Gonzales Group,Website Demo Signup,2026-02-04,Converted,True
+L-1209,Eric Hill,Bell Inc,LinkedIn Ads,2026-02-09,Contacted,False
+L-1210,Jesse Brown,Jones-Lin,Webinar,2026-02-18,Contacted,False
+L-1211,Lisa Hunter,Carpenter-Best,Website Demo Signup,2025-11-28,Converted,True
+L-1212,Amanda Stout,"Pearson, Morris and Alvarez",Partner,2026-04-18,New,False
+L-1213,Antonio Garcia,Haas-Miller,Website Demo Signup,2026-06-03,Converted,True
+L-1214,Amanda Zimmerman,Warren-Bishop,Partner,2025-09-15,Disqualified,False
+L-1215,Thomas Hughes,Shelton-Williams,Referral,2025-07-16,Nurturing,False
+L-1216,Felicia Rivera,"Gregory, Mitchell and Cummings",Cold Call,2025-10-20,New,False
+L-1217,Susan Marks,Miller-Alvarado,LinkedIn Ads,2025-11-24,New,False
+L-1218,Emily Douglas,"Myers, Larson and Hurley",Referral,2026-05-18,New,False
+L-1219,James Conner,Santiago Ltd,Webinar,2025-07-24,Contacted,False
+L-1220,Susan Davis DDS,"Cox, Cox and White",Conference,2025-11-05,Nurturing,False
+L-1221,Travis Tucker,Cooke and Sons,Organic Search,2026-04-02,Disqualified,False
+L-1222,Ryan Garcia,"Conley, Stephenson and Johnson",Conference,2026-05-18,Nurturing,False
+L-1223,Ralph Anderson,Moore-White,Website Demo Signup,2025-07-25,Converted,True
+L-1224,Lori Orr,"Kim, Jenkins and Rhodes",LinkedIn Ads,2025-12-05,Converted,True
+L-1225,Jeremy Mitchell,"Bowers, Young and Allen",Webinar,2025-12-10,Disqualified,False
+L-1226,Rachel Mckee,Richardson PLC,Referral,2026-05-19,Converted,True
+L-1227,Mrs. Diane Reyes,"Barnes, Martin and Gonzalez",Partner,2025-12-09,New,False
+L-1228,Shelley Williams,Sawyer-Spencer,Partner,2025-08-01,New,False
+L-1229,Ryan Rosales,Miller-Martin,Conference,2026-03-29,Disqualified,False
+L-1230,Jose Guerra,Potts and Sons,Conference,2025-08-17,Converted,True
+L-1231,Stacey Arias,Brown-Shaw,Cold Call,2026-02-17,Disqualified,False
+L-1232,Zachary Brooks,Flores Inc,Conference,2025-07-11,Converted,True
+L-1233,Marie Moody,Johnson Group,LinkedIn Ads,2025-08-15,Converted,True
+L-1234,Brenda Thornton,Gilbert-Bullock,Referral,2026-04-13,Converted,True
+L-1235,Daniel Hernandez,"Lynch, Henderson and Parsons",Website Demo Signup,2025-12-07,New,False
+L-1236,Bryan Allen,"Bauer, Bryant and Rodriguez",Organic Search,2025-11-09,Contacted,False
+L-1237,Linda Smith,"Andrews, Higgins and Carter",Organic Search,2025-10-21,Converted,True
+L-1238,Harry Duncan,Beck Inc,Referral,2025-07-07,Disqualified,False
+L-1239,Heather Ashley,"Romero, Mcneil and Spencer",Conference,2026-03-01,Converted,True
+L-1240,John Reid,King-Smith,Partner,2026-03-28,Contacted,False
+L-1241,Haley Quinn,"Garcia, Perkins and Sherman",Referral,2026-05-29,Disqualified,False
+L-1242,Harold Morgan,"Thompson, Maxwell and Marshall",Organic Search,2026-01-10,New,False
+L-1243,Lynn Cain,Baldwin Group,LinkedIn Ads,2026-02-09,Disqualified,False
+L-1244,Dakota Moody,Stewart LLC,Conference,2026-04-18,Nurturing,False
+L-1245,Virginia Daniels,Johnson-Lucas,Webinar,2025-09-24,Nurturing,False
+L-1246,Scott Williams,"Rivera, Martinez and Richardson",Organic Search,2026-03-29,Converted,True
+L-1247,Natalie Kline,Morgan-Lopez,Referral,2025-12-19,New,False
+L-1248,Holly Salinas,Owen-Acosta,Webinar,2026-01-22,Disqualified,False
+L-1249,Lance Short,"Carter, Garcia and Murphy",Organic Search,2025-12-18,Contacted,False
+L-1250,Jeremy Robbins,Norris LLC,Organic Search,2025-10-23,Converted,True
+L-1251,Nicholas Buck,"Bolton, Hill and Whitney",Referral,2025-09-04,Converted,True
+L-1252,Angela Walsh,Palmer-Brady,Website Demo Signup,2025-11-20,New,False
+L-1253,Andre Allison,"Harrington, Johnson and Jones",Conference,2026-04-21,Contacted,False
+L-1254,Holly Reyes,"Johnson, Hernandez and Cole",Conference,2026-05-26,Nurturing,False
+L-1255,Jeremy Jones,Moreno Group,LinkedIn Ads,2025-08-18,Nurturing,False
+L-1256,Donald Horne,Fitzgerald Group,Partner,2025-07-23,Nurturing,False
+L-1257,Susan Wilson,Padilla-Lewis,LinkedIn Ads,2025-08-17,New,False
+L-1258,Melissa Lutz,Martinez Inc,Website Demo Signup,2025-08-21,Nurturing,False
+L-1259,Steven Wallace,Cochran LLC,Webinar,2026-03-09,New,False
+L-1260,Michelle Pierce,Vance-York,LinkedIn Ads,2025-08-13,Converted,True
+L-1261,Tammy Little,Hicks-Martinez,LinkedIn Ads,2026-04-09,New,False
+L-1262,Charles Tyler,Ward PLC,Webinar,2026-01-18,Converted,True
+L-1263,Robert Arnold,"Henson, Jones and Sanders",Conference,2025-12-24,Converted,True
+L-1264,Karen Jenkins,Morrow-Jones,Cold Call,2025-12-05,Contacted,False
+L-1265,Maria Cole,"Holmes, Anderson and Calderon",Website Demo Signup,2026-04-05,Contacted,False
+L-1266,Laurie Saunders,Reynolds Inc,Partner,2025-10-22,Converted,True
+L-1267,Kelly Torres,Morris Ltd,LinkedIn Ads,2025-11-09,New,False
+L-1268,Travis Stone,Singleton-King,Partner,2025-11-07,Contacted,False
+L-1269,Krista Martinez,Mendez-Davis,Conference,2026-05-27,Converted,True
+L-1270,Leslie Carpenter,Hopkins Ltd,Referral,2025-09-06,Nurturing,False
+L-1271,Gail Bradshaw,Bryan Inc,Partner,2025-11-12,Converted,True
+L-1272,Travis Wise,Curtis-Wang,Partner,2025-12-19,Converted,True
+L-1273,Mark Jimenez,"Gardner, May and Turner",Cold Call,2025-12-20,Nurturing,False
+L-1274,Robert Sullivan,Jones-Brown,Organic Search,2026-06-22,Nurturing,False
+L-1275,John Harris,"Thomas, Hensley and Flores",Cold Call,2026-06-29,New,False
+L-1276,Haley Ross PhD,"Hoffman, Flores and Owens",Webinar,2025-08-27,Nurturing,False
+L-1277,David Davis,Dougherty-Lin,LinkedIn Ads,2026-03-08,Contacted,False
+L-1278,Victor Barrera,Peck-Griffith,Referral,2025-08-20,Contacted,False
+L-1279,Christopher Ferrell,Jimenez-Parker,Website Demo Signup,2025-08-16,New,False
+L-1280,Tony Wagner,Lewis LLC,Webinar,2026-01-26,Converted,True
+L-1281,Douglas Harper,"Chambers, Mitchell and Smith",LinkedIn Ads,2025-12-29,Converted,True
+L-1282,Cesar Baker,Gallagher-Diaz,Referral,2026-02-02,Contacted,False
+L-1283,Kelly Lee,"Roberts, Hughes and Cole",Webinar,2026-04-27,Nurturing,False
+L-1284,Samantha Hanson,"Wilson, Hester and Long",Conference,2025-10-05,Converted,True
+L-1285,Gina Mcmillan,Gonzalez PLC,Referral,2026-04-10,Disqualified,False
+L-1286,Andrew Williams,"Cook, Wells and Bryant",Webinar,2026-02-02,Converted,True
+L-1287,Kaylee Murphy,"Flores, Long and Jensen",Conference,2026-05-06,Converted,True
+L-1288,Linda Romero,"Patel, Erickson and Evans",Partner,2026-03-10,Disqualified,False
+L-1289,Isabella Nunez,Silva-Robles,Referral,2025-09-21,New,False
+L-1290,Melissa Johnson,Baker-Rios,Cold Call,2026-02-18,Nurturing,False
+L-1291,Laura Perez,Silva and Sons,Referral,2025-09-07,Nurturing,False
+L-1292,Michelle Hampton,Hernandez-Becker,LinkedIn Ads,2026-05-09,Nurturing,False
+L-1293,Travis Rodriguez,Alexander Group,Referral,2025-08-25,Converted,True
+L-1294,Michael Jenkins,"Knapp, Salas and Fitzgerald",Partner,2025-11-08,Converted,True
+L-1295,Charles Clark,Bolton-Mendoza,Website Demo Signup,2025-12-06,Converted,True
+L-1296,Tyler Stevens,"Peterson, Gomez and Ingram",Referral,2026-06-14,New,False
+L-1297,Maria Steele,"Washington, Bernard and Ramirez",Partner,2026-03-05,Converted,True
+L-1298,Todd Hendrix,Bush-Vaughn,Referral,2025-11-13,Disqualified,False
+L-1299,John Castro DVM,"Hill, Martinez and Rhodes",Webinar,2025-09-06,Converted,True
+L-1300,William Cardenas,Roberts LLC,LinkedIn Ads,2025-12-03,Disqualified,False
+L-1301,Angela Bradshaw,"Scott, Mendoza and Harris",Website Demo Signup,2026-02-10,Disqualified,False
+L-1302,Taylor Horton,Rodriguez Ltd,Organic Search,2025-11-18,New,False
+L-1303,Dana Santiago,"Perez, Hall and Garcia",Referral,2025-07-17,Nurturing,False
+L-1304,John Maldonado,Smith PLC,Referral,2026-06-02,Converted,True
+L-1305,Brooke Delgado,Woods-Gonzalez,Organic Search,2026-05-02,New,False
+L-1306,Erica Brewer,Pearson and Sons,Website Demo Signup,2025-07-29,New,False
+L-1307,Miranda Zuniga,Butler and Sons,Webinar,2026-06-08,Converted,True
+L-1308,Amanda Huff,Lopez-Curry,Webinar,2026-04-30,Converted,True
+L-1309,Donna Johnson,Bradley-Rodriguez,Website Demo Signup,2025-09-23,Converted,True
+L-1310,Mrs. Virginia Daniels,Small-Anderson,Referral,2026-03-06,Converted,True
+L-1311,Denise Lamb,Martin-Stevens,Website Demo Signup,2025-09-01,Contacted,False
+L-1312,Cody Doyle,Bradley-Todd,Cold Call,2026-04-28,New,False
+L-1313,Scott Prince,Robertson-Miller,Partner,2025-07-30,Converted,True
+L-1314,Cathy Taylor,Boyle-Smith,Webinar,2026-01-01,Converted,True
+L-1315,Jeremy Adams,Turner-Sharp,Website Demo Signup,2026-01-19,Converted,True
+L-1316,Matthew Schwartz,Contreras Group,Webinar,2026-04-30,New,False
+L-1317,Jared Shaw,"Carrillo, Vaughn and Fowler",Conference,2025-11-02,New,False
+L-1318,Holly Walker,Mendoza Group,Conference,2025-11-14,New,False
+L-1319,Lisa Perry,"Durham, Todd and Pham",Cold Call,2025-07-31,New,False
+L-1320,Pamela Becker,"Marks, Miller and Griffin",Organic Search,2026-06-02,Disqualified,False
+L-1321,Angela Elliott,Poole PLC,Website Demo Signup,2025-07-17,Disqualified,False
+L-1322,Joshua Martin,"Ramos, Frazier and Love",Partner,2026-05-27,Converted,True
+L-1323,Steven Griffin Jr.,Palmer Group,Website Demo Signup,2026-04-19,Converted,True
+L-1324,Kristin Chambers,Cummings-Foster,Cold Call,2025-08-13,Disqualified,False
+L-1325,Nichole Lane,Henderson Ltd,Cold Call,2025-09-01,Disqualified,False
+L-1326,Zachary Michael,Andersen Group,Webinar,2026-05-14,Converted,True
+L-1327,Jason Mack,"Good, Brewer and Fisher",LinkedIn Ads,2025-08-02,Contacted,False
+L-1328,Janet Kane DVM,Miller-Brandt,Conference,2025-11-25,Converted,True
+L-1329,Brandi Dalton,White PLC,Webinar,2026-01-11,New,False
+L-1330,Cameron Irwin,Avila LLC,Conference,2026-01-24,Nurturing,False
+L-1331,Nathan Coleman,Morrow-Wright,LinkedIn Ads,2026-04-16,New,False
+L-1332,Donald Pineda,"Cannon, Johnson and Keller",Website Demo Signup,2026-05-21,Converted,True
+L-1333,Taylor Small,Harris Inc,Webinar,2025-12-25,Nurturing,False
+L-1334,Jill Powers,Sanchez Inc,Website Demo Signup,2025-07-25,Disqualified,False
+L-1335,David Robinson,Taylor LLC,Organic Search,2026-06-07,Nurturing,False
+L-1336,Thomas Johnston,"Harper, Chambers and Flores",Cold Call,2026-05-11,Converted,True
+L-1337,Charles Keller,Gutierrez LLC,Conference,2025-08-01,Nurturing,False
+L-1338,Travis Hobbs,Garrett Group,Referral,2025-09-22,Contacted,False
+L-1339,Amber Cooper,"Powers, Floyd and Flores",Partner,2025-11-26,New,False
+L-1340,Chase Bennett,"Wells, Atkinson and Turner",Partner,2025-08-26,Nurturing,False
+L-1341,Renee Melendez,"Gutierrez, Butler and Moreno",Website Demo Signup,2026-06-19,Nurturing,False
+L-1342,David Rivera,Nielsen LLC,Referral,2026-01-11,Converted,True
+L-1343,Nathaniel Lee,Bennett-Jacobs,Cold Call,2026-04-21,Contacted,False
+L-1344,Benjamin Ballard,"Ramsey, Hansen and Mendoza",Organic Search,2025-08-13,Converted,True
+L-1345,Felicia Krueger,Lewis and Sons,Website Demo Signup,2025-10-05,Nurturing,False
+L-1346,Autumn Key,Rocha-Dominguez,Referral,2026-04-14,New,False
+L-1347,Jennifer Allen,Rowe-James,Website Demo Signup,2026-06-07,New,False
+L-1348,Heather Green,"Andrade, Owens and Lang",Website Demo Signup,2025-07-23,Disqualified,False
+L-1349,Pamela Flores,Wood Group,LinkedIn Ads,2025-10-28,Contacted,False
+L-1350,Sean Figueroa,Green PLC,Website Demo Signup,2025-10-14,Nurturing,False
+L-1351,Jennifer Hernandez,Hall-Hudson,LinkedIn Ads,2025-07-21,Nurturing,False
+L-1352,Juan Harding,Scott-Underwood,Referral,2026-06-10,New,False
+L-1353,Maria Henry,Oconnor LLC,Website Demo Signup,2026-06-30,Contacted,False
+L-1354,Nathan Freeman,"Mooney, Bernard and Warren",Referral,2026-02-23,Converted,True
+L-1355,Angela Meyers,Duran Group,Webinar,2025-10-22,Converted,True
+L-1356,Mark Jones,Smith PLC,Cold Call,2025-12-21,Converted,True
+L-1357,Antonio Little,"Durham, Hopkins and Smith",Webinar,2025-09-20,New,False
+L-1358,Jennifer Smith,"Hill, Madden and Smith",Partner,2025-12-12,Converted,True
+L-1359,Megan Drake,Rodriguez Inc,Conference,2026-06-24,Converted,True
+L-1360,Daisy Harvey,Ochoa-Adams,Cold Call,2026-01-24,Disqualified,False
+L-1361,Jake Sullivan,"Sanchez, Terry and Evans",Website Demo Signup,2026-02-05,Converted,True
+L-1362,Angela Frey,"Malone, Davis and Gray",Website Demo Signup,2026-01-18,Disqualified,False
+L-1363,Amy Smith,Miller Group,Partner,2025-07-15,Converted,True
+L-1364,Erin Madden,Jacobson Inc,Referral,2026-05-10,New,False
+L-1365,Steven Schwartz,"Alvarez, Williams and Jones",Partner,2025-12-13,Contacted,False
+L-1366,Stephanie Elliott,White LLC,Webinar,2026-01-14,Converted,True
+L-1367,Daniel Thomas,"Nicholson, Hickman and Evans",Website Demo Signup,2025-08-13,Nurturing,False
+L-1368,Lacey Atkinson,"Mosley, Rivera and Campos",LinkedIn Ads,2026-01-05,Contacted,False
+L-1369,William Ramsey,"Mcgee, Reed and Davis",Website Demo Signup,2026-03-05,Converted,True
+L-1370,Billy Jacobs,"Friedman, Sanders and Ayala",LinkedIn Ads,2026-04-06,New,False
+L-1371,Donald Riddle,Perez-Tran,Organic Search,2026-04-04,Disqualified,False
+L-1372,Cody Willis,Miller-Montgomery,Webinar,2025-09-18,Nurturing,False
+L-1373,Michelle Miller,James Ltd,Referral,2025-08-16,Disqualified,False
+L-1374,James Ward,Smith LLC,LinkedIn Ads,2025-11-19,New,False
+L-1375,Philip Garcia,Lopez Group,Conference,2026-01-04,Converted,True
+L-1376,Kayla Garcia,Gomez Inc,Website Demo Signup,2025-11-14,Nurturing,False
+L-1377,Rachel Shields,Carter Group,LinkedIn Ads,2026-05-25,New,False
+L-1378,Misty Hansen,Armstrong and Sons,Cold Call,2025-08-23,New,False
+L-1379,Caroline Adams,Snyder-Brown,Partner,2025-11-15,Contacted,False
+L-1380,Jason Washington,Ward and Sons,LinkedIn Ads,2026-01-20,New,False
+L-1381,Kathleen Jensen,Rodriguez-Torres,Website Demo Signup,2025-11-15,Nurturing,False
+L-1382,Evelyn Oliver,Alexander-Jordan,Website Demo Signup,2025-07-03,New,False
+L-1383,Marilyn Wheeler,Flores-Valentine,LinkedIn Ads,2026-02-27,Contacted,False
+L-1384,Ernest Oconnell,Carter-Neal,Referral,2025-12-29,Converted,True
+L-1385,Kenneth Sanchez MD,Diaz-Frederick,Webinar,2025-12-06,New,False
+L-1386,Zachary White,"Johnson, Acosta and Hahn",LinkedIn Ads,2025-08-14,Converted,True
+L-1387,Robert Guerra,Fuentes Group,Cold Call,2026-05-16,Nurturing,False
+L-1388,Brenda Turner,Hopkins-Espinoza,Organic Search,2025-08-01,Contacted,False
+L-1389,Angela Ewing,Aguilar-Ferguson,Website Demo Signup,2026-01-14,Nurturing,False
+L-1390,Sheila Barnes,Gibbs LLC,Organic Search,2026-01-26,Disqualified,False
+L-1391,Robin Wheeler,Rodriguez and Sons,Cold Call,2026-04-28,Nurturing,False
+L-1392,Heather Holland,Hart Ltd,Referral,2025-09-20,Contacted,False
+L-1393,Jennifer Goodwin,Rodriguez-Garcia,LinkedIn Ads,2025-07-25,New,False
+L-1394,Paul Grant,"Johnston, Griffin and Myers",LinkedIn Ads,2025-08-07,New,False
+L-1395,Leah Mason,Cuevas-Webb,Referral,2025-12-30,Nurturing,False
+L-1396,Thomas Miller,"Thomas, Collins and Gibson",Website Demo Signup,2025-10-28,Contacted,False
+L-1397,John Alvarez,Bowen-Chavez,Referral,2026-05-25,New,False
+L-1398,Andrew Page,Sweeney Ltd,Referral,2025-07-30,Contacted,False
+L-1399,Robert Spears,"Sanchez, Thompson and Moore",Referral,2025-09-01,Converted,True

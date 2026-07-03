@@ -1,0 +1,251 @@
+opp_id,account_name,owner,product,type,stage,amount,created_date,expected_close_date,actual_close_date,is_closed,is_won,past_due
+OPP-2000,"Church, Edwards and Price",Chelsea Nguyen,SecureVault,Upsell,Closed Won,13333.41,2025-07-04,2025-08-14,2025-07-24,True,True,False
+OPP-2001,Matthews-Bailey,Dennis Huffman,Analytics+,New Business,Closed Won,9109.21,2026-02-22,2026-05-09,2026-06-13,True,True,False
+OPP-2002,Williamson-Cervantes,Amy Garcia,InsightAI,Upsell,Closed Lost,14597.61,2026-01-16,2026-04-06,2026-02-24,True,False,False
+OPP-2003,"Mcbride, Sellers and Lawrence",Chelsea Nguyen,DataPipe,New Business,Closed Won,24681.71,2025-11-10,2026-01-28,2026-03-04,True,True,False
+OPP-2004,"Anderson, Wilson and Torres",Christine Goodwin,CloudSuite Pro,New Business,Closed Won,8599.92,2026-04-02,2026-05-17,2026-05-04,True,True,False
+OPP-2005,Brooks and Sons,Cody Davidson,SecureVault,New Business,Closed Lost,8600.0,2025-12-15,2026-03-15,2026-03-31,True,False,False
+OPP-2006,"Price, Carlson and Andrews",Allen Mendez,TeamSync,New Business,Negotiation,25527.91,2026-04-02,2026-05-26,,False,False,True
+OPP-2007,Lopez-Reid,Chelsea Nguyen,CloudSuite Pro,New Business,Closed Lost,15685.01,2026-03-02,2026-05-18,2026-03-20,True,False,False
+OPP-2008,"Ellison, Arias and Thompson",Cody Davidson,SecureVault,New Business,Proposal/Quote,7467.5,2025-12-14,2026-02-02,,False,False,True
+OPP-2009,Burns and Sons,Amy Garcia,Analytics+,New Business,Closed Won,13705.27,2026-01-11,2026-02-12,2026-03-08,True,True,False
+OPP-2010,Edwards Group,Dennis Huffman,TeamSync,New Business,Closed Won,7494.69,2026-01-28,2026-04-18,2026-03-01,True,True,False
+OPP-2011,"Brown, Howard and Smith",Allen Mendez,DataPipe,Upsell,Needs Analysis,7484.3,2026-05-14,2026-06-05,,False,False,True
+OPP-2012,Lee Group,Christine Goodwin,Analytics+,New Business,Negotiation,11443.5,2025-08-16,2025-11-11,,False,False,True
+OPP-2013,"Wagner, Simpson and Cohen",Dennis Huffman,CloudSuite Pro,New Business,Proposal/Quote,3140.17,2026-05-30,2026-07-19,,False,False,False
+OPP-2014,Mckinney-Wallace,Kevin Price,InsightAI,New Business,Prospecting,3515.89,2025-10-11,2026-01-07,,False,False,True
+OPP-2015,Miller Inc,Chelsea Nguyen,Analytics+,Upsell,Closed Won,7063.02,2025-11-16,2025-12-06,2025-12-16,True,True,False
+OPP-2016,Carter LLC,Tina Hall,TeamSync,Upsell,Closed Lost,5390.0,2026-05-11,2026-08-06,2026-06-03,True,False,False
+OPP-2017,Medina and Sons,Tina Hall,SecureVault,Upsell,Closed Lost,11950.74,2026-06-01,2026-08-09,2026-06-28,True,False,False
+OPP-2018,Cunningham-Barton,Amy Garcia,Analytics+,New Business,Closed Won,5739.83,2025-12-29,2026-02-17,2026-01-26,True,True,False
+OPP-2019,Dunn-Wilson,Dennis Huffman,InsightAI,New Business,Closed Won,4241.27,2025-09-17,2025-11-19,2025-10-24,True,True,False
+OPP-2020,Adams PLC,Dennis Huffman,CloudSuite Pro,New Business,Prospecting,23846.42,2026-03-22,2026-04-28,,False,False,True
+OPP-2021,Weaver-Sherman,Chelsea Nguyen,DataPipe,New Business,Closed Lost,8643.25,2026-06-01,2026-07-16,2026-07-01,True,False,False
+OPP-2022,"Alexander, Robinson and Coleman",Tina Hall,InsightAI,New Business,Needs Analysis,10306.36,2026-06-05,2026-07-19,,False,False,False
+OPP-2023,"Greer, Potter and Evans",Chelsea Nguyen,InsightAI,New Business,Negotiation,4209.72,2026-04-21,2026-06-27,,False,False,True
+OPP-2024,Cole LLC,Dennis Huffman,SecureVault,Upsell,Closed Lost,7139.3,2025-12-08,2026-02-09,2026-02-24,True,False,False
+OPP-2025,Gonzales Inc,Cody Davidson,TeamSync,New Business,Closed Won,10578.23,2025-10-01,2025-11-24,2025-12-09,True,True,False
+OPP-2026,Clark Ltd,Cody Davidson,CloudSuite Pro,New Business,Needs Analysis,4961.2,2026-03-23,2026-06-20,,False,False,True
+OPP-2027,"Norris, Callahan and Bishop",Chelsea Nguyen,Analytics+,Upsell,Negotiation,12399.59,2026-01-23,2026-03-23,,False,False,True
+OPP-2028,Martin-Taylor,Amy Garcia,DataPipe,Upsell,Prospecting,6902.35,2025-12-26,2026-03-13,,False,False,True
+OPP-2029,Li Inc,Chelsea Nguyen,SecureVault,New Business,Prospecting,8308.08,2026-02-03,2026-03-02,,False,False,True
+OPP-2030,"Bell, Campbell and Ryan",Dennis Huffman,CloudSuite Pro,New Business,Closed Lost,6897.93,2025-06-05,2025-07-15,2025-07-08,True,False,False
+OPP-2031,Werner-Carter,Tina Hall,DataPipe,New Business,Proposal/Quote,30072.52,2026-02-23,2026-04-30,,False,False,True
+OPP-2032,"Adams, Hodge and Duke",Cody Davidson,DataPipe,New Business,Proposal/Quote,9817.3,2025-11-05,2026-01-11,,False,False,True
+OPP-2033,"Ochoa, Taylor and Brady",Christine Goodwin,Analytics+,Upsell,Needs Analysis,5246.8,2025-12-18,2026-02-26,,False,False,True
+OPP-2034,Sellers-Riddle,Chelsea Nguyen,DataPipe,New Business,Negotiation,16212.32,2026-06-10,2026-07-23,,False,False,False
+OPP-2035,"Martinez, Cline and Wright",Christine Goodwin,InsightAI,Upsell,Qualification,4757.58,2026-02-10,2026-04-28,,False,False,True
+OPP-2036,"Morris, Wright and Bridges",Cody Davidson,TeamSync,New Business,Qualification,11218.49,2025-10-15,2025-11-29,,False,False,True
+OPP-2037,Burns-Ray,Amy Garcia,InsightAI,New Business,Closed Lost,3053.97,2025-06-23,2025-09-07,2025-10-03,True,False,False
+OPP-2038,Burton-Brooks,Allen Mendez,InsightAI,Upsell,Closed Won,4460.82,2026-05-21,2026-08-19,2026-07-01,True,True,False
+OPP-2039,Schultz Inc,Kevin Price,CloudSuite Pro,Upsell,Closed Won,11137.99,2025-06-30,2025-08-11,2025-09-18,True,True,False
+OPP-2040,Robertson-Ramirez,Amy Garcia,DataPipe,New Business,Closed Won,15414.75,2026-04-13,2026-06-02,2026-05-01,True,True,False
+OPP-2041,Gibson-Freeman,Cody Davidson,CloudSuite Pro,New Business,Qualification,10968.92,2025-10-27,2026-01-25,,False,False,True
+OPP-2042,"Smith, Schroeder and Oconnor",Chelsea Nguyen,DataPipe,New Business,Closed Won,9233.66,2025-06-21,2025-09-10,2025-10-12,True,True,False
+OPP-2043,"Stanton, Reid and Terry",Amy Garcia,Analytics+,Upsell,Negotiation,8261.3,2026-01-12,2026-02-10,,False,False,True
+OPP-2044,Flynn Group,Chelsea Nguyen,DataPipe,Upsell,Closed Won,4076.06,2025-09-14,2025-10-27,2025-10-15,True,True,False
+OPP-2045,Donaldson and Sons,Allen Mendez,Analytics+,New Business,Closed Won,6425.91,2026-05-26,2026-06-30,2026-06-29,True,True,False
+OPP-2046,Adams-Clayton,Christine Goodwin,CloudSuite Pro,New Business,Proposal/Quote,7507.19,2025-06-25,2025-08-12,,False,False,True
+OPP-2047,Kelley-Anderson,Christine Goodwin,DataPipe,New Business,Needs Analysis,18662.54,2025-08-02,2025-10-31,,False,False,True
+OPP-2048,Kramer-Shannon,Allen Mendez,InsightAI,New Business,Closed Won,12163.21,2025-10-09,2025-11-19,2025-11-12,True,True,False
+OPP-2049,Williams Ltd,Tina Hall,CloudSuite Pro,New Business,Closed Won,3436.39,2025-08-18,2025-10-20,2025-11-13,True,True,False
+OPP-2050,Smith-Noble,Chelsea Nguyen,DataPipe,New Business,Closed Won,12021.48,2025-07-30,2025-09-21,2025-10-26,True,True,False
+OPP-2051,Alexander Inc,Christine Goodwin,TeamSync,New Business,Needs Analysis,7855.35,2025-10-12,2026-01-09,,False,False,True
+OPP-2052,Harris-Barker,Cody Davidson,InsightAI,New Business,Needs Analysis,6593.55,2025-07-08,2025-09-17,,False,False,True
+OPP-2053,Khan LLC,Kevin Price,SecureVault,New Business,Negotiation,14285.58,2025-11-10,2026-01-22,,False,False,True
+OPP-2054,Baxter LLC,Chelsea Nguyen,Analytics+,Upsell,Closed Won,18372.31,2026-01-14,2026-03-15,2026-03-14,True,True,False
+OPP-2055,Pena LLC,Dennis Huffman,CloudSuite Pro,New Business,Needs Analysis,17305.3,2025-10-03,2025-11-05,,False,False,True
+OPP-2056,Watson Ltd,Christine Goodwin,TeamSync,Upsell,Prospecting,5981.76,2026-02-17,2026-03-27,,False,False,True
+OPP-2057,Williams Ltd,Amy Garcia,DataPipe,Upsell,Closed Lost,8221.21,2025-11-21,2026-01-11,2025-12-26,True,False,False
+OPP-2058,Barber-Fischer,Dennis Huffman,TeamSync,Upsell,Negotiation,12073.38,2026-03-18,2026-04-27,,False,False,True
+OPP-2059,Rios-Padilla,Chelsea Nguyen,DataPipe,New Business,Prospecting,17771.07,2025-10-12,2025-11-03,,False,False,True
+OPP-2060,Lewis Inc,Tina Hall,SecureVault,New Business,Closed Won,7424.16,2026-02-20,2026-04-08,2026-03-13,True,True,False
+OPP-2061,Wheeler PLC,Tina Hall,CloudSuite Pro,New Business,Needs Analysis,8853.82,2025-07-24,2025-10-12,,False,False,True
+OPP-2062,"Wallace, Smith and Cooper",Tina Hall,TeamSync,New Business,Closed Won,5095.94,2026-02-08,2026-04-15,2026-04-10,True,True,False
+OPP-2063,Mcneil Group,Christine Goodwin,CloudSuite Pro,New Business,Proposal/Quote,4828.43,2025-09-09,2025-10-23,,False,False,True
+OPP-2064,"Anderson, Jones and Reyes",Cody Davidson,Analytics+,Upsell,Needs Analysis,16115.16,2025-11-05,2026-02-03,,False,False,True
+OPP-2065,"Shaffer, Garcia and Richardson",Amy Garcia,Analytics+,New Business,Closed Won,22331.29,2025-12-04,2026-02-09,2026-01-31,True,True,False
+OPP-2066,Taylor-Ayala,Tina Hall,Analytics+,Upsell,Closed Won,9478.62,2025-10-06,2025-12-16,2025-10-26,True,True,False
+OPP-2067,May Ltd,Allen Mendez,SecureVault,Upsell,Negotiation,18072.01,2025-10-24,2026-01-18,,False,False,True
+OPP-2068,Jones PLC,Christine Goodwin,DataPipe,New Business,Proposal/Quote,12295.41,2026-01-11,2026-02-20,,False,False,True
+OPP-2069,Bishop and Sons,Christine Goodwin,TeamSync,Upsell,Negotiation,6720.57,2025-10-06,2026-01-02,,False,False,True
+OPP-2070,Bell-Lewis,Christine Goodwin,InsightAI,Upsell,Closed Won,12293.64,2025-12-17,2026-02-17,2026-02-23,True,True,False
+OPP-2071,"Hernandez, Jenkins and Parks",Kevin Price,InsightAI,New Business,Closed Won,24904.95,2025-08-05,2025-08-28,2025-09-05,True,True,False
+OPP-2072,Miller Inc,Allen Mendez,InsightAI,New Business,Closed Won,9686.65,2025-10-21,2025-12-01,2025-12-23,True,True,False
+OPP-2073,Goodwin PLC,Dennis Huffman,SecureVault,New Business,Qualification,25305.73,2025-09-03,2025-10-07,,False,False,True
+OPP-2074,"Cruz, Richmond and Edwards",Dennis Huffman,InsightAI,Upsell,Proposal/Quote,2055.25,2025-11-24,2026-01-09,,False,False,True
+OPP-2075,Wright Ltd,Amy Garcia,InsightAI,New Business,Closed Won,16206.08,2025-06-27,2025-08-03,2025-08-16,True,True,False
+OPP-2076,Wright PLC,Amy Garcia,DataPipe,New Business,Closed Lost,10427.78,2025-12-13,2026-02-11,2026-02-24,True,False,False
+OPP-2077,"Griffith, Mitchell and Pugh",Kevin Price,SecureVault,New Business,Closed Won,8271.7,2025-06-19,2025-08-11,2025-07-28,True,True,False
+OPP-2078,Abbott Ltd,Dennis Huffman,SecureVault,New Business,Closed Won,10457.31,2026-02-28,2026-04-27,2026-04-10,True,True,False
+OPP-2079,Harris-Lawson,Chelsea Nguyen,TeamSync,Upsell,Needs Analysis,3003.28,2025-09-10,2025-11-04,,False,False,True
+OPP-2080,Adkins LLC,Cody Davidson,SecureVault,Upsell,Prospecting,8674.97,2026-04-10,2026-06-06,,False,False,True
+OPP-2081,"Brown, Hurst and Blevins",Kevin Price,DataPipe,New Business,Closed Won,12262.09,2025-07-23,2025-09-13,2025-09-03,True,True,False
+OPP-2082,Cruz-Allen,Kevin Price,Analytics+,New Business,Qualification,24022.27,2025-09-09,2025-11-02,,False,False,True
+OPP-2083,"Wheeler, Rice and Levine",Cody Davidson,TeamSync,New Business,Closed Won,7252.04,2025-09-25,2025-11-12,2025-10-16,True,True,False
+OPP-2084,Peck-Anderson,Tina Hall,DataPipe,Upsell,Closed Won,6093.05,2025-10-25,2025-11-26,2025-11-17,True,True,False
+OPP-2085,"Fisher, Payne and Thompson",Dennis Huffman,InsightAI,New Business,Closed Won,7324.25,2026-04-04,2026-06-15,2026-06-18,True,True,False
+OPP-2086,Best-Townsend,Tina Hall,CloudSuite Pro,Upsell,Needs Analysis,17141.22,2026-01-27,2026-03-29,,False,False,True
+OPP-2087,Matthews Inc,Tina Hall,Analytics+,New Business,Closed Won,12055.19,2026-02-25,2026-05-24,2026-06-28,True,True,False
+OPP-2088,Lewis-Livingston,Dennis Huffman,Analytics+,Upsell,Closed Lost,7202.21,2026-03-25,2026-04-18,2026-05-04,True,False,False
+OPP-2089,Hunter-Fuller,Cody Davidson,SecureVault,New Business,Prospecting,13466.5,2026-01-26,2026-02-19,,False,False,True
+OPP-2090,"Wang, Henderson and Morales",Allen Mendez,DataPipe,New Business,Closed Won,10490.72,2025-07-30,2025-10-27,2025-12-05,True,True,False
+OPP-2091,"Herrera, Jensen and Ramirez",Dennis Huffman,InsightAI,New Business,Proposal/Quote,17697.65,2026-03-17,2026-04-20,,False,False,True
+OPP-2092,Miller-Mccall,Kevin Price,Analytics+,New Business,Closed Won,6494.87,2026-03-20,2026-04-10,2026-04-22,True,True,False
+OPP-2093,Herrera Group,Amy Garcia,CloudSuite Pro,New Business,Closed Won,8130.7,2025-07-31,2025-10-10,2025-10-19,True,True,False
+OPP-2094,"Walters, Davenport and Becker",Kevin Price,CloudSuite Pro,New Business,Closed Lost,7822.31,2026-05-06,2026-06-18,2026-07-01,True,False,False
+OPP-2095,Collins Group,Christine Goodwin,DataPipe,Upsell,Closed Won,4112.93,2026-02-23,2026-05-11,2026-04-21,True,True,False
+OPP-2096,"Ashley, Allen and Sanchez",Cody Davidson,TeamSync,New Business,Closed Won,11821.46,2026-06-18,2026-08-10,2026-07-03,True,True,False
+OPP-2097,Wilson-Salazar,Christine Goodwin,InsightAI,New Business,Closed Lost,11575.35,2025-11-28,2026-02-20,2026-03-13,True,False,False
+OPP-2098,Parker Ltd,Allen Mendez,TeamSync,New Business,Closed Won,9927.54,2026-01-23,2026-03-31,2026-03-07,True,True,False
+OPP-2099,"Yang, Wilson and Zimmerman",Dennis Huffman,DataPipe,Upsell,Proposal/Quote,8597.68,2025-06-06,2025-08-12,,False,False,True
+OPP-2100,"Smith, Crawford and Reed",Cody Davidson,DataPipe,New Business,Closed Won,4233.47,2026-03-04,2026-04-24,2026-06-03,True,True,False
+OPP-2101,"Logan, Le and Jackson",Cody Davidson,CloudSuite Pro,Upsell,Prospecting,7689.51,2025-06-28,2025-09-02,,False,False,True
+OPP-2102,Brady LLC,Allen Mendez,SecureVault,Upsell,Closed Won,8057.6,2025-10-08,2025-11-22,2025-11-11,True,True,False
+OPP-2103,"Tanner, Wise and Johnson",Dennis Huffman,CloudSuite Pro,Upsell,Closed Won,6115.82,2025-11-09,2025-12-13,2026-01-08,True,True,False
+OPP-2104,Nelson-Brown,Chelsea Nguyen,TeamSync,New Business,Negotiation,8984.25,2025-11-07,2025-12-04,,False,False,True
+OPP-2105,"Proctor, Burton and Crawford",Tina Hall,TeamSync,New Business,Closed Won,12612.33,2025-09-10,2025-11-28,2025-11-03,True,True,False
+OPP-2106,"Ward, Porter and Bradley",Amy Garcia,InsightAI,New Business,Closed Won,30690.6,2026-06-22,2026-08-08,2026-06-30,True,True,False
+OPP-2107,Moore-Ayala,Christine Goodwin,TeamSync,New Business,Closed Lost,10990.06,2026-05-24,2026-06-21,2026-07-03,True,False,False
+OPP-2108,"Craig, Wilson and Yang",Chelsea Nguyen,TeamSync,Upsell,Proposal/Quote,11551.03,2026-04-15,2026-06-27,,False,False,True
+OPP-2109,Williams Inc,Allen Mendez,InsightAI,Upsell,Prospecting,9464.78,2025-12-12,2026-02-18,,False,False,True
+OPP-2110,Williams LLC,Allen Mendez,InsightAI,Upsell,Closed Lost,3129.84,2026-04-24,2026-06-05,2026-06-28,True,False,False
+OPP-2111,Mora-White,Chelsea Nguyen,DataPipe,New Business,Closed Lost,9740.93,2026-06-22,2026-07-14,2026-06-28,True,False,False
+OPP-2112,Tran Ltd,Allen Mendez,SecureVault,New Business,Negotiation,10261.33,2026-02-26,2026-04-18,,False,False,True
+OPP-2113,"Rios, Walker and Wright",Chelsea Nguyen,DataPipe,Upsell,Prospecting,43388.31,2025-06-17,2025-07-21,,False,False,True
+OPP-2114,"Flores, Mckenzie and Duncan",Cody Davidson,DataPipe,New Business,Qualification,8818.29,2026-06-15,2026-08-04,,False,False,False
+OPP-2115,Shaw Inc,Tina Hall,TeamSync,New Business,Needs Analysis,11860.02,2025-08-21,2025-09-16,,False,False,True
+OPP-2116,Walker PLC,Allen Mendez,DataPipe,Upsell,Closed Won,9693.13,2025-09-20,2025-11-06,2025-10-12,True,True,False
+OPP-2117,Finley Inc,Kevin Price,SecureVault,Upsell,Closed Won,4908.84,2026-02-24,2026-04-25,2026-04-21,True,True,False
+OPP-2118,Cline-Ayala,Christine Goodwin,SecureVault,New Business,Needs Analysis,19647.27,2025-07-20,2025-10-14,,False,False,True
+OPP-2119,Murphy-Tran,Dennis Huffman,CloudSuite Pro,Upsell,Closed Won,15539.8,2025-08-25,2025-10-06,2025-11-02,True,True,False
+OPP-2120,Wood LLC,Chelsea Nguyen,TeamSync,New Business,Closed Won,15908.66,2025-07-29,2025-10-05,2025-09-22,True,True,False
+OPP-2121,"Mueller, Stevenson and Sanchez",Kevin Price,Analytics+,New Business,Closed Won,5735.14,2025-12-13,2026-01-25,2026-02-26,True,True,False
+OPP-2122,Vargas-Snyder,Chelsea Nguyen,TeamSync,New Business,Closed Won,22963.85,2025-06-26,2025-08-03,2025-07-18,True,True,False
+OPP-2123,Oconnor PLC,Kevin Price,SecureVault,New Business,Needs Analysis,4267.95,2026-04-16,2026-06-24,,False,False,True
+OPP-2124,Hernandez Group,Kevin Price,CloudSuite Pro,New Business,Prospecting,14074.42,2025-11-05,2026-01-11,,False,False,True
+OPP-2125,Hall LLC,Kevin Price,TeamSync,New Business,Closed Lost,36837.56,2025-07-14,2025-08-08,2025-08-10,True,False,False
+OPP-2126,"Franco, Wiley and Tapia",Kevin Price,Analytics+,Upsell,Closed Lost,5462.59,2026-01-04,2026-03-03,2026-01-20,True,False,False
+OPP-2127,Blake Group,Kevin Price,TeamSync,Upsell,Closed Lost,7046.04,2026-04-24,2026-07-14,2026-06-29,True,False,False
+OPP-2128,"Acosta, Garcia and Moreno",Dennis Huffman,DataPipe,New Business,Closed Won,10506.94,2025-09-14,2025-11-14,2025-11-16,True,True,False
+OPP-2129,Barnes Inc,Dennis Huffman,TeamSync,New Business,Proposal/Quote,7316.7,2026-01-17,2026-03-11,,False,False,True
+OPP-2130,Dawson Inc,Kevin Price,SecureVault,New Business,Closed Won,3903.39,2025-06-19,2025-09-07,2025-08-13,True,True,False
+OPP-2131,Morse PLC,Christine Goodwin,DataPipe,Upsell,Closed Won,10312.77,2026-05-31,2026-07-18,2026-06-17,True,True,False
+OPP-2132,Haynes-Watson,Kevin Price,SecureVault,New Business,Needs Analysis,5232.36,2025-08-31,2025-11-12,,False,False,True
+OPP-2133,"Miller, Davis and Anderson",Amy Garcia,SecureVault,Upsell,Negotiation,13149.72,2025-09-05,2025-10-26,,False,False,True
+OPP-2134,Jones-Bradley,Amy Garcia,Analytics+,New Business,Negotiation,5700.71,2025-10-16,2026-01-06,,False,False,True
+OPP-2135,Bates-Anderson,Tina Hall,DataPipe,New Business,Qualification,25083.38,2025-09-17,2025-12-08,,False,False,True
+OPP-2136,Green-Edwards,Allen Mendez,InsightAI,New Business,Closed Won,6186.03,2026-05-16,2026-06-11,2026-06-26,True,True,False
+OPP-2137,Haynes-Moss,Dennis Huffman,SecureVault,New Business,Prospecting,8158.07,2025-06-26,2025-08-04,,False,False,True
+OPP-2138,Chavez-Hall,Tina Hall,DataPipe,New Business,Closed Won,16124.75,2025-08-01,2025-10-21,2025-08-18,True,True,False
+OPP-2139,Taylor PLC,Christine Goodwin,CloudSuite Pro,New Business,Closed Won,4729.06,2026-06-17,2026-07-09,2026-06-29,True,True,False
+OPP-2140,Moore and Sons,Cody Davidson,CloudSuite Pro,New Business,Closed Won,11344.36,2025-07-01,2025-09-14,2025-08-07,True,True,False
+OPP-2141,Owens-Russell,Amy Garcia,SecureVault,Upsell,Closed Won,21683.04,2026-02-20,2026-04-05,2026-04-08,True,True,False
+OPP-2142,"Howard, Townsend and Hayes",Kevin Price,InsightAI,New Business,Closed Lost,3772.56,2026-05-14,2026-07-20,2026-06-29,True,False,False
+OPP-2143,Baker-Wilson,Tina Hall,CloudSuite Pro,New Business,Closed Won,11056.57,2025-07-08,2025-08-07,2025-09-15,True,True,False
+OPP-2144,Aguirre LLC,Tina Hall,InsightAI,New Business,Negotiation,11567.21,2025-12-12,2026-03-12,,False,False,True
+OPP-2145,"Terry, Williams and Huff",Cody Davidson,DataPipe,Upsell,Closed Won,15821.0,2025-10-11,2025-12-25,2025-12-07,True,True,False
+OPP-2146,Hernandez-Dawson,Dennis Huffman,SecureVault,New Business,Closed Lost,4711.82,2026-02-26,2026-04-14,2026-05-24,True,False,False
+OPP-2147,Foster-Williams,Tina Hall,Analytics+,Upsell,Closed Lost,4481.56,2026-05-16,2026-07-10,2026-06-28,True,False,False
+OPP-2148,Green-Ewing,Allen Mendez,InsightAI,Upsell,Closed Lost,13536.77,2026-01-13,2026-02-04,2026-03-06,True,False,False
+OPP-2149,Crane Group,Kevin Price,DataPipe,Upsell,Qualification,11827.6,2026-05-15,2026-07-12,,False,False,False
+OPP-2150,"Adkins, Wright and Murray",Allen Mendez,InsightAI,Upsell,Proposal/Quote,11502.22,2025-12-06,2026-03-05,,False,False,True
+OPP-2151,Martinez Inc,Chelsea Nguyen,Analytics+,Upsell,Prospecting,12183.88,2025-10-10,2025-12-13,,False,False,True
+OPP-2152,Anderson Group,Tina Hall,InsightAI,New Business,Closed Lost,6581.28,2025-12-31,2026-03-11,2026-02-25,True,False,False
+OPP-2153,Parks-Pace,Chelsea Nguyen,TeamSync,New Business,Needs Analysis,11377.04,2025-11-05,2026-01-26,,False,False,True
+OPP-2154,Aguilar LLC,Christine Goodwin,Analytics+,Upsell,Prospecting,11799.87,2025-08-28,2025-11-04,,False,False,True
+OPP-2155,Johnson Inc,Allen Mendez,InsightAI,New Business,Qualification,6447.12,2026-05-12,2026-07-05,,False,False,False
+OPP-2156,Orr Group,Christine Goodwin,TeamSync,New Business,Prospecting,30317.02,2025-12-21,2026-01-23,,False,False,True
+OPP-2157,Davis LLC,Allen Mendez,TeamSync,New Business,Qualification,13151.61,2026-02-05,2026-03-10,,False,False,True
+OPP-2158,Williams Group,Tina Hall,CloudSuite Pro,New Business,Proposal/Quote,4842.65,2025-09-12,2025-12-06,,False,False,True
+OPP-2159,Jackson PLC,Christine Goodwin,TeamSync,New Business,Closed Lost,14675.46,2026-05-07,2026-07-07,2026-05-23,True,False,False
+OPP-2160,Underwood-Foster,Chelsea Nguyen,Analytics+,New Business,Closed Won,5514.8,2026-05-11,2026-07-01,2026-06-16,True,True,False
+OPP-2161,Reyes Group,Cody Davidson,Analytics+,New Business,Negotiation,15871.03,2026-01-20,2026-03-15,,False,False,True
+OPP-2162,Gomez and Sons,Cody Davidson,SecureVault,New Business,Negotiation,19834.09,2025-11-20,2026-01-17,,False,False,True
+OPP-2163,Ramirez-Stephenson,Dennis Huffman,CloudSuite Pro,New Business,Closed Won,6048.65,2026-02-17,2026-05-11,2026-03-29,True,True,False
+OPP-2164,Mendez PLC,Chelsea Nguyen,SecureVault,New Business,Proposal/Quote,17641.79,2026-06-20,2026-08-29,,False,False,False
+OPP-2165,Holland Group,Kevin Price,TeamSync,New Business,Needs Analysis,12678.57,2025-11-15,2025-12-22,,False,False,True
+OPP-2166,Andrade-Mendoza,Dennis Huffman,DataPipe,Upsell,Needs Analysis,16207.61,2025-12-02,2026-01-31,,False,False,True
+OPP-2167,Ramirez and Sons,Chelsea Nguyen,SecureVault,New Business,Needs Analysis,30886.54,2026-01-08,2026-03-17,,False,False,True
+OPP-2168,Gonzalez-Wilkerson,Allen Mendez,InsightAI,Upsell,Closed Won,8542.14,2025-09-08,2025-10-23,2025-12-01,True,True,False
+OPP-2169,"Wright, Mcknight and Stephens",Christine Goodwin,InsightAI,New Business,Closed Lost,6296.56,2026-06-10,2026-08-28,2026-06-30,True,False,False
+OPP-2170,Mayo Ltd,Christine Goodwin,Analytics+,New Business,Qualification,5803.93,2025-11-26,2026-02-17,,False,False,True
+OPP-2171,Castillo-Harrington,Dennis Huffman,DataPipe,New Business,Closed Won,6066.36,2026-04-06,2026-06-19,2026-04-30,True,True,False
+OPP-2172,Durham-Shaw,Chelsea Nguyen,DataPipe,New Business,Closed Won,9449.71,2025-11-30,2026-02-26,2026-04-05,True,True,False
+OPP-2173,Nelson-Johnson,Cody Davidson,Analytics+,Upsell,Closed Won,12145.22,2025-12-21,2026-03-19,2026-01-15,True,True,False
+OPP-2174,"Robinson, Huang and Osborne",Chelsea Nguyen,SecureVault,Upsell,Closed Won,11684.45,2025-12-24,2026-02-03,2026-01-13,True,True,False
+OPP-2175,Stokes Group,Christine Goodwin,Analytics+,New Business,Prospecting,16257.51,2025-11-15,2025-12-18,,False,False,True
+OPP-2176,"Howard, Silva and Hall",Chelsea Nguyen,TeamSync,Upsell,Negotiation,9974.64,2025-10-01,2025-11-18,,False,False,True
+OPP-2177,Garcia Ltd,Tina Hall,TeamSync,New Business,Qualification,23673.71,2025-08-26,2025-11-18,,False,False,True
+OPP-2178,Adams Ltd,Allen Mendez,SecureVault,New Business,Qualification,8443.95,2025-11-23,2025-12-23,,False,False,True
+OPP-2179,Gallagher and Sons,Dennis Huffman,CloudSuite Pro,New Business,Closed Won,50619.97,2025-11-02,2025-12-18,2025-12-31,True,True,False
+OPP-2180,"Bradford, Salinas and Kelly",Christine Goodwin,CloudSuite Pro,Upsell,Needs Analysis,14406.0,2025-07-02,2025-09-17,,False,False,True
+OPP-2181,Thompson PLC,Cody Davidson,InsightAI,Upsell,Closed Won,5917.71,2026-04-26,2026-05-18,2026-06-21,True,True,False
+OPP-2182,Drake-Wolfe,Allen Mendez,SecureVault,New Business,Closed Won,5205.47,2025-06-09,2025-07-30,2025-09-02,True,True,False
+OPP-2183,"Johnson, Haynes and Meza",Allen Mendez,InsightAI,Upsell,Closed Won,13219.96,2025-10-30,2025-12-18,2025-12-07,True,True,False
+OPP-2184,"Thomas, Vaughan and Copeland",Dennis Huffman,DataPipe,New Business,Closed Won,8655.26,2025-12-03,2025-12-26,2025-12-30,True,True,False
+OPP-2185,Weaver-Thompson,Cody Davidson,DataPipe,New Business,Qualification,15190.12,2026-06-21,2026-08-07,,False,False,False
+OPP-2186,Davis and Sons,Kevin Price,TeamSync,New Business,Proposal/Quote,13146.92,2025-09-22,2025-11-04,,False,False,True
+OPP-2187,"Robinson, Fox and Smith",Amy Garcia,DataPipe,New Business,Closed Won,9473.96,2025-07-15,2025-10-05,2025-10-19,True,True,False
+OPP-2188,"Harris, Anderson and Love",Dennis Huffman,DataPipe,New Business,Proposal/Quote,5954.63,2025-12-05,2026-01-08,,False,False,True
+OPP-2189,Brown-Hernandez,Cody Davidson,InsightAI,New Business,Closed Lost,3988.19,2025-07-14,2025-09-10,2025-10-12,True,False,False
+OPP-2190,"Stark, Schroeder and Mathis",Allen Mendez,SecureVault,Upsell,Needs Analysis,7571.08,2026-04-24,2026-06-13,,False,False,True
+OPP-2191,Yu-Brooks,Allen Mendez,DataPipe,New Business,Proposal/Quote,16545.0,2025-10-05,2025-12-13,,False,False,True
+OPP-2192,"Foster, Garcia and Turner",Allen Mendez,DataPipe,New Business,Closed Won,11253.75,2026-03-20,2026-06-10,2026-07-01,True,True,False
+OPP-2193,Daugherty Ltd,Dennis Huffman,DataPipe,New Business,Qualification,4687.04,2026-01-27,2026-03-05,,False,False,True
+OPP-2194,Conner-Yu,Kevin Price,TeamSync,Upsell,Negotiation,10980.85,2025-12-22,2026-01-12,,False,False,True
+OPP-2195,"Stewart, Mann and Hoffman",Dennis Huffman,TeamSync,Upsell,Proposal/Quote,12471.36,2025-10-08,2025-12-30,,False,False,True
+OPP-2196,"Buchanan, Walker and Chapman",Tina Hall,Analytics+,New Business,Qualification,5823.67,2025-11-08,2026-01-29,,False,False,True
+OPP-2197,Gray Ltd,Dennis Huffman,DataPipe,Upsell,Closed Won,10853.42,2026-02-03,2026-03-23,2026-03-11,True,True,False
+OPP-2198,"Phillips, Thompson and Smith",Cody Davidson,SecureVault,Upsell,Closed Won,10248.9,2025-10-13,2026-01-11,2026-01-09,True,True,False
+OPP-2199,"Fry, Myers and Gamble",Dennis Huffman,DataPipe,New Business,Closed Won,4985.15,2025-12-18,2026-03-17,2026-01-07,True,True,False
+OPP-2200,"Johnson, Guzman and Mccall",Kevin Price,SecureVault,Upsell,Closed Won,12267.05,2025-11-18,2025-12-21,2026-01-13,True,True,False
+OPP-2201,"Walker, Cunningham and Zuniga",Cody Davidson,TeamSync,Upsell,Needs Analysis,13855.96,2026-06-07,2026-08-23,,False,False,False
+OPP-2202,Rivera Inc,Amy Garcia,InsightAI,New Business,Qualification,18955.15,2026-04-24,2026-06-13,,False,False,True
+OPP-2203,Reed LLC,Kevin Price,CloudSuite Pro,New Business,Closed Won,18625.39,2025-11-16,2025-12-27,2025-12-27,True,True,False
+OPP-2204,Fields Inc,Amy Garcia,InsightAI,New Business,Closed Won,4330.33,2025-09-24,2025-11-18,2025-10-30,True,True,False
+OPP-2205,"Santiago, Daniel and Rogers",Cody Davidson,Analytics+,Upsell,Closed Lost,5638.11,2025-09-03,2025-10-27,2025-11-22,True,False,False
+OPP-2206,Baker and Sons,Allen Mendez,InsightAI,Upsell,Closed Lost,13480.79,2025-11-25,2025-12-22,2026-01-20,True,False,False
+OPP-2207,"Jones, Scott and Rodriguez",Chelsea Nguyen,TeamSync,New Business,Closed Won,13470.69,2026-02-16,2026-03-26,2026-04-03,True,True,False
+OPP-2208,Williams Group,Dennis Huffman,CloudSuite Pro,New Business,Closed Won,13480.89,2025-08-04,2025-09-27,2025-10-06,True,True,False
+OPP-2209,"Barnes, Jackson and Gutierrez",Amy Garcia,TeamSync,Upsell,Closed Won,99871.43,2026-05-07,2026-07-17,2026-06-26,True,True,False
+OPP-2210,Bell-Bennett,Dennis Huffman,InsightAI,Upsell,Closed Lost,13940.23,2026-01-07,2026-01-27,2026-01-27,True,False,False
+OPP-2211,Kramer-Lane,Kevin Price,TeamSync,Upsell,Closed Won,19561.91,2025-12-22,2026-01-19,2026-01-31,True,True,False
+OPP-2212,"Perez, Hayes and Lloyd",Christine Goodwin,SecureVault,New Business,Proposal/Quote,17542.84,2025-10-13,2025-12-06,,False,False,True
+OPP-2213,Phillips LLC,Tina Hall,CloudSuite Pro,New Business,Closed Won,14630.08,2026-04-18,2026-07-09,2026-07-03,True,True,False
+OPP-2214,Lynn-Jones,Allen Mendez,TeamSync,New Business,Qualification,8191.39,2025-10-31,2025-11-22,,False,False,True
+OPP-2215,Barron and Sons,Christine Goodwin,Analytics+,Upsell,Closed Lost,15605.54,2025-11-16,2025-12-31,2025-12-17,True,False,False
+OPP-2216,"Jones, Mcmahon and Spence",Cody Davidson,SecureVault,Upsell,Closed Won,6224.85,2026-02-03,2026-03-06,2026-03-06,True,True,False
+OPP-2217,Wheeler-Austin,Christine Goodwin,InsightAI,Upsell,Prospecting,8586.18,2025-07-26,2025-09-05,,False,False,True
+OPP-2218,Bush-Reynolds,Cody Davidson,CloudSuite Pro,New Business,Closed Won,7396.65,2026-02-24,2026-05-09,2026-06-09,True,True,False
+OPP-2219,"Martin, Preston and Moore",Dennis Huffman,CloudSuite Pro,New Business,Closed Won,10395.46,2026-05-15,2026-06-20,2026-07-02,True,True,False
+OPP-2220,Rivera and Sons,Allen Mendez,TeamSync,New Business,Closed Lost,39687.64,2025-12-30,2026-02-03,2026-02-10,True,False,False
+OPP-2221,Terry-Bowen,Cody Davidson,SecureVault,New Business,Closed Won,3228.07,2025-12-09,2026-01-09,2025-12-30,True,True,False
+OPP-2222,"Fernandez, Guerrero and Evans",Allen Mendez,InsightAI,Upsell,Proposal/Quote,14939.38,2026-01-21,2026-02-27,,False,False,True
+OPP-2223,Williams PLC,Allen Mendez,TeamSync,New Business,Closed Won,3760.74,2026-04-11,2026-05-09,2026-04-26,True,True,False
+OPP-2224,"Larsen, Hernandez and Ward",Kevin Price,CloudSuite Pro,Upsell,Closed Lost,7456.5,2026-03-06,2026-04-14,2026-05-16,True,False,False
+OPP-2225,Miller-Colon,Amy Garcia,TeamSync,New Business,Closed Won,19022.36,2026-04-13,2026-05-18,2026-05-22,True,True,False
+OPP-2226,"Greene, Gonzalez and Johnson",Cody Davidson,Analytics+,New Business,Needs Analysis,10286.3,2026-04-13,2026-06-03,,False,False,True
+OPP-2227,Little Inc,Christine Goodwin,Analytics+,New Business,Closed Won,5184.11,2025-08-20,2025-10-15,2025-09-07,True,True,False
+OPP-2228,Anthony-Parker,Tina Hall,Analytics+,New Business,Closed Won,6443.44,2025-10-06,2025-11-19,2025-11-27,True,True,False
+OPP-2229,Ruiz-Jacobson,Cody Davidson,DataPipe,Upsell,Negotiation,14879.78,2026-04-27,2026-06-16,,False,False,True
+OPP-2230,Davis-Stephens,Chelsea Nguyen,SecureVault,New Business,Closed Lost,6385.47,2026-06-17,2026-08-22,2026-06-30,True,False,False
+OPP-2231,Watson Group,Tina Hall,DataPipe,New Business,Closed Lost,11269.72,2026-03-27,2026-06-15,2026-07-03,True,False,False
+OPP-2232,Lopez-Williams,Tina Hall,TeamSync,New Business,Prospecting,10171.48,2026-02-09,2026-03-28,,False,False,True
+OPP-2233,Marshall-Perez,Chelsea Nguyen,CloudSuite Pro,New Business,Closed Won,6694.49,2025-08-06,2025-10-29,2025-10-14,True,True,False
+OPP-2234,Elliott-Hernandez,Christine Goodwin,CloudSuite Pro,New Business,Needs Analysis,35823.75,2025-09-21,2025-10-30,,False,False,True
+OPP-2235,"Contreras, Miller and Cooper",Cody Davidson,SecureVault,Upsell,Closed Won,14477.51,2026-03-11,2026-04-19,2026-05-15,True,True,False
+OPP-2236,"Gutierrez, Avila and Perez",Cody Davidson,TeamSync,New Business,Prospecting,2936.33,2025-06-15,2025-08-04,,False,False,True
+OPP-2237,Randall PLC,Allen Mendez,CloudSuite Pro,New Business,Needs Analysis,11068.66,2025-08-14,2025-09-10,,False,False,True
+OPP-2238,Sheppard-Mcdaniel,Amy Garcia,DataPipe,New Business,Qualification,6653.7,2026-04-14,2026-05-05,,False,False,True
+OPP-2239,Armstrong-Young,Allen Mendez,InsightAI,Upsell,Qualification,16505.68,2025-06-19,2025-08-11,,False,False,True
+OPP-2240,Miller-Orr,Amy Garcia,TeamSync,New Business,Closed Won,6151.72,2026-02-06,2026-03-13,2026-02-22,True,True,False
+OPP-2241,"Johnson, Duncan and Black",Cody Davidson,TeamSync,New Business,Closed Won,9238.72,2026-05-22,2026-07-14,2026-06-28,True,True,False
+OPP-2242,"Byrd, Oliver and Martinez",Allen Mendez,SecureVault,New Business,Negotiation,13399.76,2025-12-21,2026-01-17,,False,False,True
+OPP-2243,Thompson-Joyce,Tina Hall,CloudSuite Pro,Upsell,Needs Analysis,16638.14,2026-05-02,2026-06-05,,False,False,True
+OPP-2244,Stokes and Sons,Amy Garcia,TeamSync,Upsell,Prospecting,4816.59,2026-06-17,2026-08-07,,False,False,False
+OPP-2245,Henderson Ltd,Chelsea Nguyen,Analytics+,New Business,Closed Won,8097.41,2026-03-24,2026-04-17,2026-05-23,True,True,False
+OPP-2246,Harris-Carson,Cody Davidson,DataPipe,New Business,Needs Analysis,7443.03,2025-11-22,2026-01-21,,False,False,True
+OPP-2247,Flowers LLC,Tina Hall,TeamSync,New Business,Qualification,6687.55,2025-10-09,2025-11-04,,False,False,True
+OPP-2248,Bartlett-Sloan,Amy Garcia,CloudSuite Pro,New Business,Closed Won,28546.01,2025-10-28,2025-12-23,2025-12-21,True,True,False
+OPP-2249,Miller PLC,Christine Goodwin,InsightAI,New Business,Qualification,12619.38,2026-06-19,2026-08-25,,False,False,False

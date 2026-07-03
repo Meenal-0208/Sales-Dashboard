@@ -1,0 +1,121 @@
+case_id,account_name,subject,notes,priority,status,created_date
+CASE-4000,Arnold-Gates,Customer is frustrated with slow load ti...,Customer is frustrated with slow load times on reports.,Medium,Open,2026-05-23
+CASE-4001,"Ellis, Marks and Buchanan",Requesting clarification on the renewal ...,Requesting clarification on the renewal process.,Low,Closed,2026-05-28
+CASE-4002,"Matthews, Harrington and Rodriguez",Customer asked a question about invoice ...,Customer asked a question about invoice cycle dates.,Medium,Open,2026-05-07
+CASE-4003,Hernandez PLC,Customer is frustrated with slow load ti...,Customer is frustrated with slow load times on reports.,High,Closed,2026-05-31
+CASE-4004,"Chang, Ayers and Buckley",Customer praised the onboarding experien...,Customer praised the onboarding experience as smooth and helpful.,Critical,Closed,2026-05-04
+CASE-4005,"Chan, Floyd and Dillon",Requesting clarification on the renewal ...,Requesting clarification on the renewal process.,Medium,Closed,2026-05-09
+CASE-4006,Humphrey-Baker,Requesting clarification on the renewal ...,Requesting clarification on the renewal process.,High,Closed,2026-05-14
+CASE-4007,"Washington, Lynch and Johnson",Complained the integration keeps failing...,Complained the integration keeps failing and it's a terrible experience.,Low,Closed,2026-06-23
+CASE-4008,Powell-Montgomery,Requesting clarification on the renewal ...,Requesting clarification on the renewal process.,Medium,Open,2026-06-19
+CASE-4009,"Steele, Williams and Preston",Very disappointed with the delay in fixi...,Very disappointed with the delay in fixing a critical bug.,Low,Closed,2026-05-31
+CASE-4010,Vaughn-Williams,Customer asked a question about invoice ...,Customer asked a question about invoice cycle dates.,Low,Closed,2026-06-22
+CASE-4011,Mccall-Prince,Requesting clarification on the renewal ...,Requesting clarification on the renewal process.,Low,Closed,2026-06-28
+CASE-4012,Morgan LLC,Very disappointed with the delay in fixi...,Very disappointed with the delay in fixing a critical bug.,High,Closed,2026-05-07
+CASE-4013,Ramirez-Vasquez,Customer praised the onboarding experien...,Customer praised the onboarding experience as smooth and helpful.,Critical,Open,2026-05-09
+CASE-4014,"Cohen, Compton and Perez",Complained the integration keeps failing...,Complained the integration keeps failing and it's a terrible experience.,Low,Closed,2026-05-14
+CASE-4015,Mccann-Ramos,Customer praised the onboarding experien...,Customer praised the onboarding experience as smooth and helpful.,Low,Closed,2026-06-06
+CASE-4016,Adams-Butler,General question about API rate limits....,General question about API rate limits.,Low,Open,2026-06-15
+CASE-4017,"Davis, Alexander and Mcintyre",Customer is frustrated with slow load ti...,Customer is frustrated with slow load times on reports.,Low,Closed,2026-05-19
+CASE-4018,Figueroa-Malone,"Great feedback, they love how easy the p...","Great feedback, they love how easy the product is to use.",High,Closed,2026-05-31
+CASE-4019,Nicholson-Robertson,Requesting clarification on the renewal ...,Requesting clarification on the renewal process.,High,Closed,2026-06-07
+CASE-4020,Jones Ltd,Very disappointed with the delay in fixi...,Very disappointed with the delay in fixing a critical bug.,High,Closed,2026-06-17
+CASE-4021,"Powell, Deleon and Warren",Requesting clarification on the renewal ...,Requesting clarification on the renewal process.,Critical,Closed,2026-05-21
+CASE-4022,"Johnson, Lee and Whitaker",General question about API rate limits....,General question about API rate limits.,High,Open,2026-06-22
+CASE-4023,Wright Group,Customer praised the onboarding experien...,Customer praised the onboarding experience as smooth and helpful.,Low,Closed,2026-05-28
+CASE-4024,Hull Ltd,"Great feedback, they love how easy the p...","Great feedback, they love how easy the product is to use.",Critical,Open,2026-05-17
+CASE-4025,Hill Group,Customer is thrilled with the new dashbo...,Customer is thrilled with the new dashboard feature.,Low,Open,2026-05-14
+CASE-4026,"Sanders, Leblanc and Maldonado","Great feedback, they love how easy the p...","Great feedback, they love how easy the product is to use.",Critical,Closed,2026-05-13
+CASE-4027,Watson PLC,"Great feedback, they love how easy the p...","Great feedback, they love how easy the product is to use.",Low,Open,2026-06-28
+CASE-4028,Thompson-Harrell,General question about API rate limits....,General question about API rate limits.,High,Closed,2026-05-18
+CASE-4029,"Arnold, Cooper and Monroe",Customer is frustrated with slow load ti...,Customer is frustrated with slow load times on reports.,Medium,Closed,2026-05-19
+CASE-4030,Curry-Barker,Customer asked a question about invoice ...,Customer asked a question about invoice cycle dates.,High,Open,2026-05-24
+CASE-4031,Johnson-Williams,"Great feedback, they love how easy the p...","Great feedback, they love how easy the product is to use.",Low,Closed,2026-06-21
+CASE-4032,"Chan, Lewis and Walker",Customer is thrilled with the new dashbo...,Customer is thrilled with the new dashboard feature.,Low,Closed,2026-06-10
+CASE-4033,Byrd LLC,Complained the integration keeps failing...,Complained the integration keeps failing and it's a terrible experience.,Critical,Closed,2026-06-16
+CASE-4034,"Ortiz, Smith and Deleon",Customer is thrilled with the new dashbo...,Customer is thrilled with the new dashboard feature.,Low,Closed,2026-05-27
+CASE-4035,"Smith, Buck and Holland","Very happy with support response time, e...","Very happy with support response time, excellent service.",High,Closed,2026-05-06
+CASE-4036,"Owen, Walker and Franklin",Complained the integration keeps failing...,Complained the integration keeps failing and it's a terrible experience.,Medium,Open,2026-06-11
+CASE-4037,Marquez-Fletcher,Customer is frustrated with slow load ti...,Customer is frustrated with slow load times on reports.,Critical,Open,2026-06-04
+CASE-4038,Coleman-Bennett,Customer is thrilled with the new dashbo...,Customer is thrilled with the new dashboard feature.,High,Closed,2026-06-01
+CASE-4039,Stevens-Robinson,"Very happy with support response time, e...","Very happy with support response time, excellent service.",High,Closed,2026-05-04
+CASE-4040,Byrd-Holloway,General question about API rate limits....,General question about API rate limits.,Medium,Closed,2026-05-20
+CASE-4041,Silva-Smith,Customer praised the onboarding experien...,Customer praised the onboarding experience as smooth and helpful.,Low,Closed,2026-05-16
+CASE-4042,"Levy, Franco and Hoffman",Customer is thrilled with the new dashbo...,Customer is thrilled with the new dashboard feature.,Medium,Open,2026-06-03
+CASE-4043,"Lynch, Evans and Rodriguez",Complained the integration keeps failing...,Complained the integration keeps failing and it's a terrible experience.,High,Closed,2026-05-21
+CASE-4044,Rogers LLC,Wants to know if a feature is on the roa...,Wants to know if a feature is on the roadmap.,Low,Open,2026-05-31
+CASE-4045,"Nguyen, Hill and Douglas",Wants to know if a feature is on the roa...,Wants to know if a feature is on the roadmap.,Medium,Open,2026-06-08
+CASE-4046,"Evans, Hernandez and Cannon","Great feedback, they love how easy the p...","Great feedback, they love how easy the product is to use.",High,Closed,2026-06-03
+CASE-4047,Trujillo PLC,Unhappy about a billing error that was n...,Unhappy about a billing error that was not resolved quickly.,Medium,Closed,2026-06-22
+CASE-4048,Guerrero-Becker,Complained the integration keeps failing...,Complained the integration keeps failing and it's a terrible experience.,Medium,Open,2026-06-18
+CASE-4049,"Johnson, Jimenez and Phillips","Very happy with support response time, e...","Very happy with support response time, excellent service.",Low,Open,2026-05-11
+CASE-4050,Sullivan-Doyle,Very disappointed with the delay in fixi...,Very disappointed with the delay in fixing a critical bug.,Low,Closed,2026-06-26
+CASE-4051,"Erickson, Armstrong and Lee",Wants to know if a feature is on the roa...,Wants to know if a feature is on the roadmap.,High,Closed,2026-05-10
+CASE-4052,"Reeves, Parks and Little","Very happy with support response time, e...","Very happy with support response time, excellent service.",Medium,Open,2026-06-02
+CASE-4053,Knox-Powers,General question about API rate limits....,General question about API rate limits.,Low,Closed,2026-06-30
+CASE-4054,"Evans, Jackson and Sandoval","Great feedback, they love how easy the p...","Great feedback, they love how easy the product is to use.",Low,Closed,2026-06-01
+CASE-4055,"White, Davis and Anderson",Wants to know if a feature is on the roa...,Wants to know if a feature is on the roadmap.,Low,Closed,2026-05-20
+CASE-4056,Hardy-Hansen,Customer is thrilled with the new dashbo...,Customer is thrilled with the new dashboard feature.,High,Open,2026-05-21
+CASE-4057,Arroyo LLC,Requesting clarification on the renewal ...,Requesting clarification on the renewal process.,High,Open,2026-06-22
+CASE-4058,"Davis, Kelly and Garner",Customer praised the onboarding experien...,Customer praised the onboarding experience as smooth and helpful.,High,Open,2026-06-10
+CASE-4059,Fisher-Eaton,Complained the integration keeps failing...,Complained the integration keeps failing and it's a terrible experience.,Medium,Closed,2026-06-10
+CASE-4060,Green-Carter,Customer asked a question about invoice ...,Customer asked a question about invoice cycle dates.,Medium,Closed,2026-05-28
+CASE-4061,Ruiz Ltd,General question about API rate limits....,General question about API rate limits.,Medium,Open,2026-05-29
+CASE-4062,"Carpenter, Oliver and Kennedy",Unhappy about a billing error that was n...,Unhappy about a billing error that was not resolved quickly.,Medium,Closed,2026-06-03
+CASE-4063,Mason Ltd,Complained the integration keeps failing...,Complained the integration keeps failing and it's a terrible experience.,High,Closed,2026-05-07
+CASE-4064,Moreno-Gutierrez,Customer asked a question about invoice ...,Customer asked a question about invoice cycle dates.,Medium,Open,2026-06-17
+CASE-4065,Taylor and Sons,"Very happy with support response time, e...","Very happy with support response time, excellent service.",Low,Closed,2026-06-30
+CASE-4066,Ortiz-Hudson,Complained the integration keeps failing...,Complained the integration keeps failing and it's a terrible experience.,High,Open,2026-06-05
+CASE-4067,Thomas-Huffman,Customer is thrilled with the new dashbo...,Customer is thrilled with the new dashboard feature.,Medium,Open,2026-06-11
+CASE-4068,Maxwell Group,Requesting clarification on the renewal ...,Requesting clarification on the renewal process.,High,Closed,2026-05-28
+CASE-4069,Welch-Thompson,Customer praised the onboarding experien...,Customer praised the onboarding experience as smooth and helpful.,Critical,Closed,2026-06-11
+CASE-4070,"Brown, Hayes and Clark","Very happy with support response time, e...","Very happy with support response time, excellent service.",Medium,Closed,2026-05-08
+CASE-4071,Johnston and Sons,"Very happy with support response time, e...","Very happy with support response time, excellent service.",Critical,Closed,2026-05-09
+CASE-4072,Glover-Chan,Customer is frustrated with slow load ti...,Customer is frustrated with slow load times on reports.,Medium,Open,2026-05-10
+CASE-4073,Mendez Ltd,"Very happy with support response time, e...","Very happy with support response time, excellent service.",Critical,Closed,2026-06-13
+CASE-4074,Powell-Sanford,Complained the integration keeps failing...,Complained the integration keeps failing and it's a terrible experience.,Critical,Closed,2026-06-16
+CASE-4075,Smith-Ferguson,Customer is thrilled with the new dashbo...,Customer is thrilled with the new dashboard feature.,Medium,Open,2026-06-07
+CASE-4076,"Watson, Smith and Morris",Customer is thrilled with the new dashbo...,Customer is thrilled with the new dashboard feature.,Critical,Open,2026-05-22
+CASE-4077,"Lee, Rhodes and Sims",Customer praised the onboarding experien...,Customer praised the onboarding experience as smooth and helpful.,Low,Closed,2026-06-27
+CASE-4078,Perez LLC,Customer asked a question about invoice ...,Customer asked a question about invoice cycle dates.,Medium,Open,2026-05-15
+CASE-4079,Anderson-Reyes,General question about API rate limits....,General question about API rate limits.,Medium,Open,2026-06-28
+CASE-4080,"Torres, Brown and Williams","Great feedback, they love how easy the p...","Great feedback, they love how easy the product is to use.",Medium,Open,2026-05-17
+CASE-4081,Bryant-Meyer,"Very happy with support response time, e...","Very happy with support response time, excellent service.",High,Closed,2026-07-02
+CASE-4082,"Morgan, Barron and Cowan",Wants to know if a feature is on the roa...,Wants to know if a feature is on the roadmap.,Medium,Closed,2026-05-09
+CASE-4083,Ferrell-Henry,Requesting clarification on the renewal ...,Requesting clarification on the renewal process.,Critical,Closed,2026-05-04
+CASE-4084,Martin Group,Very disappointed with the delay in fixi...,Very disappointed with the delay in fixing a critical bug.,High,Closed,2026-05-24
+CASE-4085,Perez Ltd,"Great feedback, they love how easy the p...","Great feedback, they love how easy the product is to use.",Critical,Closed,2026-05-06
+CASE-4086,Clark Inc,Wants to know if a feature is on the roa...,Wants to know if a feature is on the roadmap.,Low,Open,2026-06-14
+CASE-4087,"Wagner, Martinez and Dawson",Requesting clarification on the renewal ...,Requesting clarification on the renewal process.,Critical,Open,2026-07-03
+CASE-4088,Brooks Ltd,Customer praised the onboarding experien...,Customer praised the onboarding experience as smooth and helpful.,Critical,Closed,2026-05-30
+CASE-4089,Wise-Dean,Customer praised the onboarding experien...,Customer praised the onboarding experience as smooth and helpful.,Medium,Closed,2026-06-14
+CASE-4090,"Vang, Stanley and Valdez","Very happy with support response time, e...","Very happy with support response time, excellent service.",Critical,Open,2026-05-14
+CASE-4091,Williams Inc,Customer praised the onboarding experien...,Customer praised the onboarding experience as smooth and helpful.,Medium,Closed,2026-06-08
+CASE-4092,Wallace-Martinez,"Great feedback, they love how easy the p...","Great feedback, they love how easy the product is to use.",High,Closed,2026-06-17
+CASE-4093,Wells-Hernandez,Wants to know if a feature is on the roa...,Wants to know if a feature is on the roadmap.,Low,Closed,2026-06-15
+CASE-4094,"Jennings, Smith and Fisher",Customer is thrilled with the new dashbo...,Customer is thrilled with the new dashboard feature.,Critical,Closed,2026-06-22
+CASE-4095,Bates LLC,Very disappointed with the delay in fixi...,Very disappointed with the delay in fixing a critical bug.,Low,Open,2026-06-16
+CASE-4096,"Obrien, Taylor and Rivas",Customer is thrilled with the new dashbo...,Customer is thrilled with the new dashboard feature.,Low,Open,2026-06-24
+CASE-4097,Hunt PLC,Customer praised the onboarding experien...,Customer praised the onboarding experience as smooth and helpful.,Medium,Closed,2026-06-15
+CASE-4098,Campbell Inc,Customer praised the onboarding experien...,Customer praised the onboarding experience as smooth and helpful.,Critical,Open,2026-06-28
+CASE-4099,Gonzalez-Gonzalez,Very disappointed with the delay in fixi...,Very disappointed with the delay in fixing a critical bug.,Critical,Closed,2026-06-14
+CASE-4100,Decker-Dudley,Complained the integration keeps failing...,Complained the integration keeps failing and it's a terrible experience.,Medium,Open,2026-05-20
+CASE-4101,Warner-Phillips,Customer praised the onboarding experien...,Customer praised the onboarding experience as smooth and helpful.,Critical,Open,2026-06-30
+CASE-4102,Kelley and Sons,"Very happy with support response time, e...","Very happy with support response time, excellent service.",Low,Closed,2026-06-22
+CASE-4103,"Fitzpatrick, Rivera and Smith",Unhappy about a billing error that was n...,Unhappy about a billing error that was not resolved quickly.,Critical,Open,2026-06-26
+CASE-4104,"Davis, Rodriguez and Andrews",Customer is frustrated with slow load ti...,Customer is frustrated with slow load times on reports.,Low,Open,2026-06-18
+CASE-4105,Hernandez-Davis,Requesting clarification on the renewal ...,Requesting clarification on the renewal process.,High,Closed,2026-05-31
+CASE-4106,"Jones, Cummings and Conway",Customer is thrilled with the new dashbo...,Customer is thrilled with the new dashboard feature.,Low,Closed,2026-05-05
+CASE-4107,"Hall, Hinton and Phillips",Wants to know if a feature is on the roa...,Wants to know if a feature is on the roadmap.,Low,Open,2026-06-17
+CASE-4108,Williams-Li,Customer asked a question about invoice ...,Customer asked a question about invoice cycle dates.,Critical,Open,2026-05-09
+CASE-4109,Phelps LLC,"Very happy with support response time, e...","Very happy with support response time, excellent service.",Critical,Closed,2026-06-13
+CASE-4110,"Edwards, Rodgers and Davis",Customer is thrilled with the new dashbo...,Customer is thrilled with the new dashboard feature.,Critical,Closed,2026-05-14
+CASE-4111,Smith and Sons,Wants to know if a feature is on the roa...,Wants to know if a feature is on the roadmap.,Medium,Closed,2026-05-20
+CASE-4112,"Holland, Murphy and Kline",Wants to know if a feature is on the roa...,Wants to know if a feature is on the roadmap.,Low,Closed,2026-06-23
+CASE-4113,"Adams, Quinn and Watson",Requesting clarification on the renewal ...,Requesting clarification on the renewal process.,Low,Closed,2026-06-30
+CASE-4114,White-Morales,Wants to know if a feature is on the roa...,Wants to know if a feature is on the roadmap.,High,Closed,2026-06-25
+CASE-4115,Nelson-Cruz,Unhappy about a billing error that was n...,Unhappy about a billing error that was not resolved quickly.,Critical,Open,2026-05-13
+CASE-4116,Marsh-Banks,Complained the integration keeps failing...,Complained the integration keeps failing and it's a terrible experience.,Critical,Closed,2026-06-11
+CASE-4117,Wilson Ltd,Wants to know if a feature is on the roa...,Wants to know if a feature is on the roadmap.,Critical,Closed,2026-05-19
+CASE-4118,"Brown, Dunlap and Moore",Wants to know if a feature is on the roa...,Wants to know if a feature is on the roadmap.,Critical,Open,2026-06-21
+CASE-4119,Pruitt-Webb,Unhappy about a billing error that was n...,Unhappy about a billing error that was not resolved quickly.,Medium,Open,2026-06-16

@@ -1,0 +1,301 @@
+activity_id,type,related_opp,owner,due_date,status
+ACT-3000,Email Follow-up,OPP-2197,Christine Goodwin,2026-07-17,Open
+ACT-3001,Demo,OPP-2038,Chelsea Nguyen,2026-07-22,Completed
+ACT-3002,Visit,OPP-2162,Chelsea Nguyen,2026-07-14,Open
+ACT-3003,Email Follow-up,OPP-2217,Cody Davidson,2026-07-09,Open
+ACT-3004,Demo,OPP-2135,Christine Goodwin,2026-06-24,Completed
+ACT-3005,Call,OPP-2248,Amy Garcia,2026-07-14,Open
+ACT-3006,Demo,OPP-2229,Kevin Price,2026-07-05,Open
+ACT-3007,Call,OPP-2148,Dennis Huffman,2026-07-11,Open
+ACT-3008,Email Follow-up,OPP-2019,Chelsea Nguyen,2026-07-20,Open
+ACT-3009,Demo,OPP-2060,Cody Davidson,2026-07-15,Completed
+ACT-3010,Email Follow-up,OPP-2179,Allen Mendez,2026-07-04,Completed
+ACT-3011,Demo,OPP-2019,Christine Goodwin,2026-07-08,Open
+ACT-3012,Call,OPP-2039,Dennis Huffman,2026-06-26,Completed
+ACT-3013,Email Follow-up,OPP-2119,Allen Mendez,2026-06-28,Completed
+ACT-3014,Visit,OPP-2246,Christine Goodwin,2026-07-14,Open
+ACT-3015,Visit,OPP-2218,Dennis Huffman,2026-07-16,Open
+ACT-3016,Demo,OPP-2206,Cody Davidson,2026-06-23,Completed
+ACT-3017,Demo,OPP-2213,Allen Mendez,2026-06-20,Completed
+ACT-3018,Call,OPP-2182,Christine Goodwin,2026-06-27,Completed
+ACT-3019,Call,OPP-2173,Cody Davidson,2026-07-10,Open
+ACT-3020,Demo,OPP-2007,Kevin Price,2026-07-04,Completed
+ACT-3021,Demo,OPP-2024,Tina Hall,2026-07-16,Completed
+ACT-3022,Demo,OPP-2031,Chelsea Nguyen,2026-06-24,Completed
+ACT-3023,Demo,OPP-2033,Christine Goodwin,2026-06-21,Completed
+ACT-3024,Call,OPP-2149,Cody Davidson,2026-07-13,Open
+ACT-3025,Call,OPP-2016,Christine Goodwin,2026-06-22,Completed
+ACT-3026,Call,OPP-2231,Allen Mendez,2026-07-16,Completed
+ACT-3027,Call,OPP-2241,Tina Hall,2026-06-25,Completed
+ACT-3028,Demo,OPP-2236,Kevin Price,2026-06-21,Completed
+ACT-3029,Email Follow-up,OPP-2174,Kevin Price,2026-07-13,Open
+ACT-3030,Visit,OPP-2054,Amy Garcia,2026-06-29,Completed
+ACT-3031,Demo,OPP-2008,Christine Goodwin,2026-07-05,Open
+ACT-3032,Email Follow-up,OPP-2015,Dennis Huffman,2026-07-06,Open
+ACT-3033,Email Follow-up,OPP-2051,Christine Goodwin,2026-07-05,Open
+ACT-3034,Email Follow-up,OPP-2200,Allen Mendez,2026-07-22,Completed
+ACT-3035,Email Follow-up,OPP-2088,Allen Mendez,2026-07-18,Open
+ACT-3036,Call,OPP-2081,Christine Goodwin,2026-07-12,Open
+ACT-3037,Visit,OPP-2014,Tina Hall,2026-06-19,Completed
+ACT-3038,Demo,OPP-2249,Amy Garcia,2026-07-21,Open
+ACT-3039,Demo,OPP-2168,Christine Goodwin,2026-06-24,Completed
+ACT-3040,Call,OPP-2195,Christine Goodwin,2026-07-05,Open
+ACT-3041,Demo,OPP-2045,Christine Goodwin,2026-07-12,Open
+ACT-3042,Visit,OPP-2233,Chelsea Nguyen,2026-07-08,Completed
+ACT-3043,Demo,OPP-2144,Christine Goodwin,2026-07-10,Completed
+ACT-3044,Demo,OPP-2125,Chelsea Nguyen,2026-07-19,Open
+ACT-3045,Call,OPP-2059,Christine Goodwin,2026-06-23,Completed
+ACT-3046,Email Follow-up,OPP-2000,Allen Mendez,2026-06-19,Completed
+ACT-3047,Demo,OPP-2087,Amy Garcia,2026-06-30,Completed
+ACT-3048,Demo,OPP-2150,Amy Garcia,2026-07-08,Open
+ACT-3049,Visit,OPP-2245,Dennis Huffman,2026-06-25,Completed
+ACT-3050,Email Follow-up,OPP-2150,Dennis Huffman,2026-07-11,Completed
+ACT-3051,Demo,OPP-2249,Amy Garcia,2026-07-09,Open
+ACT-3052,Email Follow-up,OPP-2166,Allen Mendez,2026-07-15,Completed
+ACT-3053,Visit,OPP-2057,Amy Garcia,2026-06-29,Completed
+ACT-3054,Visit,OPP-2032,Amy Garcia,2026-07-12,Open
+ACT-3055,Email Follow-up,OPP-2217,Chelsea Nguyen,2026-06-18,Completed
+ACT-3056,Visit,OPP-2235,Christine Goodwin,2026-06-29,Completed
+ACT-3057,Email Follow-up,OPP-2036,Allen Mendez,2026-06-24,Completed
+ACT-3058,Demo,OPP-2088,Allen Mendez,2026-06-22,Completed
+ACT-3059,Call,OPP-2210,Allen Mendez,2026-06-28,Completed
+ACT-3060,Demo,OPP-2063,Dennis Huffman,2026-07-16,Open
+ACT-3061,Call,OPP-2184,Chelsea Nguyen,2026-07-10,Open
+ACT-3062,Email Follow-up,OPP-2112,Kevin Price,2026-06-21,Completed
+ACT-3063,Email Follow-up,OPP-2126,Kevin Price,2026-06-28,Completed
+ACT-3064,Call,OPP-2212,Tina Hall,2026-07-10,Open
+ACT-3065,Call,OPP-2204,Chelsea Nguyen,2026-07-02,Open
+ACT-3066,Visit,OPP-2243,Dennis Huffman,2026-07-06,Open
+ACT-3067,Visit,OPP-2043,Kevin Price,2026-06-22,Completed
+ACT-3068,Call,OPP-2140,Dennis Huffman,2026-06-28,Completed
+ACT-3069,Email Follow-up,OPP-2180,Chelsea Nguyen,2026-07-09,Completed
+ACT-3070,Demo,OPP-2155,Kevin Price,2026-07-15,Completed
+ACT-3071,Call,OPP-2025,Allen Mendez,2026-06-28,Completed
+ACT-3072,Email Follow-up,OPP-2178,Cody Davidson,2026-07-01,Completed
+ACT-3073,Call,OPP-2012,Kevin Price,2026-07-06,Open
+ACT-3074,Demo,OPP-2013,Allen Mendez,2026-07-23,Completed
+ACT-3075,Email Follow-up,OPP-2022,Cody Davidson,2026-06-18,Completed
+ACT-3076,Call,OPP-2052,Amy Garcia,2026-07-18,Open
+ACT-3077,Email Follow-up,OPP-2216,Dennis Huffman,2026-07-06,Completed
+ACT-3078,Email Follow-up,OPP-2125,Cody Davidson,2026-07-07,Completed
+ACT-3079,Email Follow-up,OPP-2047,Allen Mendez,2026-06-23,Completed
+ACT-3080,Email Follow-up,OPP-2011,Cody Davidson,2026-07-12,Open
+ACT-3081,Demo,OPP-2214,Cody Davidson,2026-07-16,Open
+ACT-3082,Demo,OPP-2192,Dennis Huffman,2026-06-21,Completed
+ACT-3083,Visit,OPP-2206,Kevin Price,2026-06-23,Completed
+ACT-3084,Email Follow-up,OPP-2209,Kevin Price,2026-07-02,Completed
+ACT-3085,Email Follow-up,OPP-2146,Christine Goodwin,2026-07-22,Completed
+ACT-3086,Email Follow-up,OPP-2231,Chelsea Nguyen,2026-07-18,Open
+ACT-3087,Demo,OPP-2030,Tina Hall,2026-07-20,Completed
+ACT-3088,Demo,OPP-2248,Christine Goodwin,2026-06-29,Completed
+ACT-3089,Demo,OPP-2010,Kevin Price,2026-06-30,Completed
+ACT-3090,Email Follow-up,OPP-2051,Amy Garcia,2026-06-23,Completed
+ACT-3091,Call,OPP-2022,Kevin Price,2026-07-04,Open
+ACT-3092,Visit,OPP-2219,Cody Davidson,2026-07-23,Open
+ACT-3093,Call,OPP-2201,Kevin Price,2026-07-21,Open
+ACT-3094,Email Follow-up,OPP-2038,Amy Garcia,2026-06-25,Completed
+ACT-3095,Call,OPP-2144,Dennis Huffman,2026-06-24,Completed
+ACT-3096,Visit,OPP-2224,Kevin Price,2026-07-06,Completed
+ACT-3097,Email Follow-up,OPP-2146,Tina Hall,2026-07-04,Open
+ACT-3098,Demo,OPP-2070,Kevin Price,2026-06-20,Completed
+ACT-3099,Email Follow-up,OPP-2009,Kevin Price,2026-06-27,Completed
+ACT-3100,Call,OPP-2190,Tina Hall,2026-07-09,Completed
+ACT-3101,Call,OPP-2086,Cody Davidson,2026-07-05,Completed
+ACT-3102,Email Follow-up,OPP-2219,Dennis Huffman,2026-07-07,Open
+ACT-3103,Email Follow-up,OPP-2198,Allen Mendez,2026-07-02,Open
+ACT-3104,Call,OPP-2048,Tina Hall,2026-07-05,Completed
+ACT-3105,Email Follow-up,OPP-2189,Tina Hall,2026-07-01,Completed
+ACT-3106,Call,OPP-2131,Amy Garcia,2026-07-21,Completed
+ACT-3107,Visit,OPP-2181,Kevin Price,2026-06-22,Completed
+ACT-3108,Call,OPP-2044,Christine Goodwin,2026-06-26,Completed
+ACT-3109,Call,OPP-2063,Chelsea Nguyen,2026-06-30,Completed
+ACT-3110,Visit,OPP-2180,Christine Goodwin,2026-07-17,Open
+ACT-3111,Email Follow-up,OPP-2129,Kevin Price,2026-07-05,Open
+ACT-3112,Call,OPP-2061,Allen Mendez,2026-06-25,Completed
+ACT-3113,Demo,OPP-2245,Tina Hall,2026-07-19,Completed
+ACT-3114,Demo,OPP-2214,Cody Davidson,2026-07-23,Open
+ACT-3115,Visit,OPP-2007,Kevin Price,2026-06-23,Completed
+ACT-3116,Demo,OPP-2218,Christine Goodwin,2026-06-21,Completed
+ACT-3117,Demo,OPP-2068,Kevin Price,2026-07-02,Completed
+ACT-3118,Call,OPP-2121,Amy Garcia,2026-07-20,Open
+ACT-3119,Call,OPP-2057,Cody Davidson,2026-06-29,Completed
+ACT-3120,Visit,OPP-2108,Kevin Price,2026-07-07,Completed
+ACT-3121,Demo,OPP-2119,Cody Davidson,2026-07-10,Open
+ACT-3122,Email Follow-up,OPP-2149,Dennis Huffman,2026-07-21,Completed
+ACT-3123,Visit,OPP-2143,Cody Davidson,2026-06-18,Completed
+ACT-3124,Email Follow-up,OPP-2016,Allen Mendez,2026-07-07,Completed
+ACT-3125,Visit,OPP-2066,Cody Davidson,2026-07-05,Completed
+ACT-3126,Demo,OPP-2132,Christine Goodwin,2026-06-30,Completed
+ACT-3127,Email Follow-up,OPP-2169,Allen Mendez,2026-06-21,Completed
+ACT-3128,Call,OPP-2167,Tina Hall,2026-06-26,Completed
+ACT-3129,Email Follow-up,OPP-2103,Kevin Price,2026-07-06,Open
+ACT-3130,Demo,OPP-2087,Christine Goodwin,2026-06-20,Completed
+ACT-3131,Email Follow-up,OPP-2232,Allen Mendez,2026-07-22,Completed
+ACT-3132,Demo,OPP-2215,Amy Garcia,2026-07-20,Open
+ACT-3133,Demo,OPP-2189,Cody Davidson,2026-07-06,Open
+ACT-3134,Demo,OPP-2242,Allen Mendez,2026-07-23,Completed
+ACT-3135,Demo,OPP-2090,Christine Goodwin,2026-06-23,Completed
+ACT-3136,Visit,OPP-2095,Cody Davidson,2026-07-07,Open
+ACT-3137,Call,OPP-2120,Chelsea Nguyen,2026-07-06,Open
+ACT-3138,Email Follow-up,OPP-2227,Christine Goodwin,2026-06-22,Completed
+ACT-3139,Email Follow-up,OPP-2135,Cody Davidson,2026-07-20,Open
+ACT-3140,Demo,OPP-2035,Christine Goodwin,2026-07-14,Open
+ACT-3141,Email Follow-up,OPP-2036,Allen Mendez,2026-07-09,Open
+ACT-3142,Call,OPP-2124,Allen Mendez,2026-06-29,Completed
+ACT-3143,Visit,OPP-2162,Chelsea Nguyen,2026-06-29,Completed
+ACT-3144,Email Follow-up,OPP-2070,Christine Goodwin,2026-06-18,Completed
+ACT-3145,Demo,OPP-2125,Dennis Huffman,2026-06-28,Completed
+ACT-3146,Email Follow-up,OPP-2162,Kevin Price,2026-06-26,Completed
+ACT-3147,Email Follow-up,OPP-2098,Chelsea Nguyen,2026-07-13,Open
+ACT-3148,Demo,OPP-2187,Allen Mendez,2026-06-20,Completed
+ACT-3149,Visit,OPP-2193,Christine Goodwin,2026-06-18,Completed
+ACT-3150,Call,OPP-2160,Christine Goodwin,2026-06-19,Completed
+ACT-3151,Visit,OPP-2079,Amy Garcia,2026-07-02,Completed
+ACT-3152,Email Follow-up,OPP-2128,Cody Davidson,2026-06-24,Completed
+ACT-3153,Call,OPP-2210,Chelsea Nguyen,2026-06-28,Completed
+ACT-3154,Email Follow-up,OPP-2186,Allen Mendez,2026-07-07,Completed
+ACT-3155,Demo,OPP-2087,Tina Hall,2026-07-15,Completed
+ACT-3156,Demo,OPP-2242,Kevin Price,2026-07-10,Completed
+ACT-3157,Demo,OPP-2057,Amy Garcia,2026-06-19,Completed
+ACT-3158,Demo,OPP-2031,Allen Mendez,2026-07-01,Completed
+ACT-3159,Email Follow-up,OPP-2224,Cody Davidson,2026-06-20,Completed
+ACT-3160,Call,OPP-2169,Dennis Huffman,2026-07-22,Completed
+ACT-3161,Call,OPP-2176,Dennis Huffman,2026-06-19,Completed
+ACT-3162,Call,OPP-2140,Cody Davidson,2026-07-14,Open
+ACT-3163,Demo,OPP-2177,Chelsea Nguyen,2026-07-18,Completed
+ACT-3164,Call,OPP-2169,Cody Davidson,2026-07-07,Open
+ACT-3165,Email Follow-up,OPP-2212,Dennis Huffman,2026-06-26,Completed
+ACT-3166,Call,OPP-2072,Dennis Huffman,2026-07-20,Completed
+ACT-3167,Email Follow-up,OPP-2050,Christine Goodwin,2026-06-24,Completed
+ACT-3168,Demo,OPP-2091,Kevin Price,2026-07-04,Completed
+ACT-3169,Email Follow-up,OPP-2233,Christine Goodwin,2026-07-06,Open
+ACT-3170,Call,OPP-2003,Dennis Huffman,2026-07-18,Open
+ACT-3171,Email Follow-up,OPP-2038,Dennis Huffman,2026-06-25,Completed
+ACT-3172,Call,OPP-2231,Cody Davidson,2026-07-20,Open
+ACT-3173,Visit,OPP-2067,Tina Hall,2026-07-02,Open
+ACT-3174,Call,OPP-2208,Amy Garcia,2026-06-21,Completed
+ACT-3175,Visit,OPP-2092,Allen Mendez,2026-06-20,Completed
+ACT-3176,Call,OPP-2217,Chelsea Nguyen,2026-07-15,Completed
+ACT-3177,Demo,OPP-2169,Amy Garcia,2026-06-18,Completed
+ACT-3178,Email Follow-up,OPP-2244,Cody Davidson,2026-07-09,Open
+ACT-3179,Visit,OPP-2208,Allen Mendez,2026-06-23,Completed
+ACT-3180,Call,OPP-2102,Kevin Price,2026-06-29,Completed
+ACT-3181,Email Follow-up,OPP-2176,Tina Hall,2026-07-17,Open
+ACT-3182,Demo,OPP-2028,Amy Garcia,2026-07-14,Completed
+ACT-3183,Demo,OPP-2026,Kevin Price,2026-06-21,Completed
+ACT-3184,Email Follow-up,OPP-2046,Kevin Price,2026-07-18,Completed
+ACT-3185,Demo,OPP-2123,Tina Hall,2026-07-10,Completed
+ACT-3186,Email Follow-up,OPP-2112,Chelsea Nguyen,2026-06-25,Completed
+ACT-3187,Visit,OPP-2167,Allen Mendez,2026-06-22,Completed
+ACT-3188,Demo,OPP-2244,Allen Mendez,2026-06-18,Completed
+ACT-3189,Call,OPP-2110,Christine Goodwin,2026-07-21,Open
+ACT-3190,Email Follow-up,OPP-2038,Chelsea Nguyen,2026-07-18,Open
+ACT-3191,Demo,OPP-2129,Tina Hall,2026-06-18,Completed
+ACT-3192,Call,OPP-2192,Tina Hall,2026-07-19,Completed
+ACT-3193,Visit,OPP-2012,Christine Goodwin,2026-07-08,Open
+ACT-3194,Email Follow-up,OPP-2209,Christine Goodwin,2026-07-23,Completed
+ACT-3195,Email Follow-up,OPP-2113,Tina Hall,2026-06-23,Completed
+ACT-3196,Email Follow-up,OPP-2114,Allen Mendez,2026-06-23,Completed
+ACT-3197,Email Follow-up,OPP-2190,Chelsea Nguyen,2026-06-25,Completed
+ACT-3198,Email Follow-up,OPP-2105,Chelsea Nguyen,2026-06-24,Completed
+ACT-3199,Call,OPP-2202,Cody Davidson,2026-07-23,Open
+ACT-3200,Email Follow-up,OPP-2243,Allen Mendez,2026-07-20,Completed
+ACT-3201,Demo,OPP-2216,Tina Hall,2026-07-11,Completed
+ACT-3202,Email Follow-up,OPP-2183,Allen Mendez,2026-07-09,Completed
+ACT-3203,Demo,OPP-2000,Allen Mendez,2026-07-16,Open
+ACT-3204,Visit,OPP-2140,Allen Mendez,2026-07-10,Completed
+ACT-3205,Call,OPP-2229,Amy Garcia,2026-06-24,Completed
+ACT-3206,Email Follow-up,OPP-2027,Cody Davidson,2026-07-19,Open
+ACT-3207,Demo,OPP-2030,Kevin Price,2026-06-30,Completed
+ACT-3208,Demo,OPP-2183,Allen Mendez,2026-07-01,Open
+ACT-3209,Email Follow-up,OPP-2011,Dennis Huffman,2026-06-24,Completed
+ACT-3210,Demo,OPP-2246,Tina Hall,2026-07-16,Open
+ACT-3211,Call,OPP-2141,Kevin Price,2026-06-18,Completed
+ACT-3212,Demo,OPP-2177,Amy Garcia,2026-07-18,Completed
+ACT-3213,Call,OPP-2099,Allen Mendez,2026-06-26,Completed
+ACT-3214,Email Follow-up,OPP-2155,Christine Goodwin,2026-07-20,Completed
+ACT-3215,Visit,OPP-2248,Cody Davidson,2026-07-05,Open
+ACT-3216,Demo,OPP-2105,Cody Davidson,2026-07-16,Completed
+ACT-3217,Demo,OPP-2051,Christine Goodwin,2026-07-23,Completed
+ACT-3218,Demo,OPP-2181,Amy Garcia,2026-07-06,Completed
+ACT-3219,Visit,OPP-2181,Dennis Huffman,2026-07-20,Open
+ACT-3220,Email Follow-up,OPP-2172,Cody Davidson,2026-07-10,Completed
+ACT-3221,Call,OPP-2006,Kevin Price,2026-07-15,Completed
+ACT-3222,Call,OPP-2171,Chelsea Nguyen,2026-06-27,Completed
+ACT-3223,Visit,OPP-2192,Amy Garcia,2026-06-30,Completed
+ACT-3224,Demo,OPP-2214,Chelsea Nguyen,2026-07-06,Completed
+ACT-3225,Call,OPP-2091,Tina Hall,2026-07-06,Open
+ACT-3226,Demo,OPP-2190,Kevin Price,2026-06-24,Completed
+ACT-3227,Visit,OPP-2177,Chelsea Nguyen,2026-07-03,Open
+ACT-3228,Visit,OPP-2247,Chelsea Nguyen,2026-07-12,Open
+ACT-3229,Visit,OPP-2051,Tina Hall,2026-06-18,Completed
+ACT-3230,Visit,OPP-2193,Christine Goodwin,2026-07-02,Completed
+ACT-3231,Visit,OPP-2114,Amy Garcia,2026-06-30,Completed
+ACT-3232,Demo,OPP-2246,Amy Garcia,2026-06-22,Completed
+ACT-3233,Call,OPP-2109,Cody Davidson,2026-07-20,Open
+ACT-3234,Demo,OPP-2149,Cody Davidson,2026-07-23,Open
+ACT-3235,Visit,OPP-2119,Amy Garcia,2026-06-18,Completed
+ACT-3236,Demo,OPP-2237,Allen Mendez,2026-06-20,Completed
+ACT-3237,Visit,OPP-2125,Allen Mendez,2026-06-21,Completed
+ACT-3238,Visit,OPP-2134,Christine Goodwin,2026-06-22,Completed
+ACT-3239,Call,OPP-2201,Amy Garcia,2026-06-29,Completed
+ACT-3240,Email Follow-up,OPP-2023,Allen Mendez,2026-07-14,Open
+ACT-3241,Visit,OPP-2084,Allen Mendez,2026-07-02,Completed
+ACT-3242,Email Follow-up,OPP-2143,Chelsea Nguyen,2026-07-06,Open
+ACT-3243,Visit,OPP-2114,Christine Goodwin,2026-06-25,Completed
+ACT-3244,Visit,OPP-2097,Dennis Huffman,2026-07-03,Completed
+ACT-3245,Visit,OPP-2006,Allen Mendez,2026-07-12,Open
+ACT-3246,Email Follow-up,OPP-2124,Chelsea Nguyen,2026-07-20,Completed
+ACT-3247,Demo,OPP-2082,Dennis Huffman,2026-07-06,Completed
+ACT-3248,Demo,OPP-2248,Chelsea Nguyen,2026-06-24,Completed
+ACT-3249,Demo,OPP-2171,Christine Goodwin,2026-06-22,Completed
+ACT-3250,Demo,OPP-2137,Kevin Price,2026-07-15,Completed
+ACT-3251,Demo,OPP-2006,Tina Hall,2026-06-22,Completed
+ACT-3252,Call,OPP-2013,Amy Garcia,2026-07-09,Open
+ACT-3253,Demo,OPP-2233,Cody Davidson,2026-07-04,Completed
+ACT-3254,Email Follow-up,OPP-2110,Allen Mendez,2026-07-14,Open
+ACT-3255,Email Follow-up,OPP-2172,Dennis Huffman,2026-06-19,Completed
+ACT-3256,Call,OPP-2193,Chelsea Nguyen,2026-07-22,Open
+ACT-3257,Visit,OPP-2237,Dennis Huffman,2026-06-22,Completed
+ACT-3258,Visit,OPP-2155,Dennis Huffman,2026-07-06,Completed
+ACT-3259,Email Follow-up,OPP-2097,Kevin Price,2026-07-06,Completed
+ACT-3260,Email Follow-up,OPP-2040,Christine Goodwin,2026-06-19,Completed
+ACT-3261,Email Follow-up,OPP-2203,Cody Davidson,2026-06-26,Completed
+ACT-3262,Visit,OPP-2173,Allen Mendez,2026-06-27,Completed
+ACT-3263,Demo,OPP-2031,Chelsea Nguyen,2026-06-18,Completed
+ACT-3264,Email Follow-up,OPP-2137,Dennis Huffman,2026-06-18,Completed
+ACT-3265,Visit,OPP-2054,Kevin Price,2026-07-07,Open
+ACT-3266,Demo,OPP-2056,Cody Davidson,2026-07-20,Open
+ACT-3267,Call,OPP-2046,Chelsea Nguyen,2026-06-30,Completed
+ACT-3268,Call,OPP-2074,Dennis Huffman,2026-07-23,Open
+ACT-3269,Email Follow-up,OPP-2243,Allen Mendez,2026-07-04,Open
+ACT-3270,Demo,OPP-2025,Cody Davidson,2026-07-10,Open
+ACT-3271,Demo,OPP-2081,Tina Hall,2026-06-22,Completed
+ACT-3272,Visit,OPP-2177,Amy Garcia,2026-07-16,Open
+ACT-3273,Email Follow-up,OPP-2043,Chelsea Nguyen,2026-07-11,Completed
+ACT-3274,Demo,OPP-2182,Kevin Price,2026-07-08,Open
+ACT-3275,Demo,OPP-2173,Allen Mendez,2026-07-05,Completed
+ACT-3276,Visit,OPP-2198,Cody Davidson,2026-07-18,Open
+ACT-3277,Demo,OPP-2165,Dennis Huffman,2026-07-19,Completed
+ACT-3278,Demo,OPP-2228,Christine Goodwin,2026-07-05,Completed
+ACT-3279,Call,OPP-2186,Dennis Huffman,2026-07-04,Completed
+ACT-3280,Call,OPP-2208,Kevin Price,2026-06-19,Completed
+ACT-3281,Visit,OPP-2139,Tina Hall,2026-07-01,Completed
+ACT-3282,Visit,OPP-2100,Christine Goodwin,2026-06-27,Completed
+ACT-3283,Call,OPP-2101,Allen Mendez,2026-07-06,Open
+ACT-3284,Demo,OPP-2217,Amy Garcia,2026-07-20,Open
+ACT-3285,Demo,OPP-2045,Amy Garcia,2026-07-20,Open
+ACT-3286,Call,OPP-2056,Tina Hall,2026-07-18,Completed
+ACT-3287,Visit,OPP-2059,Chelsea Nguyen,2026-07-02,Open
+ACT-3288,Visit,OPP-2099,Tina Hall,2026-07-01,Open
+ACT-3289,Call,OPP-2166,Allen Mendez,2026-07-17,Completed
+ACT-3290,Visit,OPP-2213,Cody Davidson,2026-06-24,Completed
+ACT-3291,Email Follow-up,OPP-2167,Kevin Price,2026-07-22,Completed
+ACT-3292,Call,OPP-2132,Cody Davidson,2026-07-11,Completed
+ACT-3293,Demo,OPP-2132,Kevin Price,2026-07-12,Completed
+ACT-3294,Visit,OPP-2124,Tina Hall,2026-07-10,Completed
+ACT-3295,Demo,OPP-2112,Amy Garcia,2026-06-18,Completed
+ACT-3296,Visit,OPP-2054,Amy Garcia,2026-07-02,Open
+ACT-3297,Demo,OPP-2092,Dennis Huffman,2026-06-29,Completed
+ACT-3298,Visit,OPP-2184,Dennis Huffman,2026-07-02,Open
+ACT-3299,Email Follow-up,OPP-2053,Amy Garcia,2026-07-18,Completed
