@@ -20,6 +20,11 @@ no external CRM connection required. Swap the CSVs in `data/` with your real
 export any time (see **Using Your Own Data** below).
 
 ---
+## 🌐 Live Demo
+
+**Try the live application here:**
+
+https://sales-dashboard-cq7qxyfck5hgc9nsty8mak.streamlit.app/
 
 ## 📁 Project Structure
 
